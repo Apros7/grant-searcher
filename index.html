@@ -1,0 +1,188 @@
+<html>
+    <head>
+        <title>Grant Searcher</title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+    <div class="page">
+        <header class="hero">
+            <h1 class="intro">Danish Grant Searcher</h1>
+            <p class="subheader">In less than 100 seconds...</p>
+        </header>
+        
+        <div class="layout">
+            <div class="qa-card">
+                <div class="qa-row">
+                    <span class="qa-text">Industry:</span>
+                </div>
+                <div class="qa-row answer-row">
+                    <select id="answer-industry" class="answer-select">
+                        <option value="">Select industry...</option>
+                        <option value="technology">Technology</option>
+                        <option value="healthcare">Healthcare</option>
+                        <option value="finance">Finance</option>
+                        <option value="manufacturing">Manufacturing</option>
+                        <option value="energy">Energy</option>
+                        <option value="agriculture">Agriculture</option>
+                        <option value="education">Education</option>
+                        <option value="retail">Retail</option>
+                        <option value="transportation">Transportation</option>
+                        <option value="construction">Construction</option>
+                    </select>
+                </div>
+
+                <div class="qa-row">
+                    <span class="qa-text">Sub-industry:</span>
+                </div>
+                <div class="qa-row answer-row">
+                    <select id="answer-subindustry" class="answer-select" disabled>
+                        <option value="">Select sub-industry...</option>
+                    </select>
+                </div>
+
+                <div class="qa-row">
+                    <span class="qa-text">Revenue (DKK):</span>
+                </div>
+                <div class="qa-row answer-row">
+                    <input
+                        id="answer-revenue"
+                        class="answer-input"
+                        type="text"
+                        placeholder="Type your answer…"
+                        autocomplete="off"
+                    />
+                </div>
+
+            </div>
+            
+
+            <aside class="ranking" aria-label="Ranking">
+                <div class="ranking-header">Live Ranking</div>
+
+                <div class="rank-box">
+                    <div class="rank-number">#1</div>
+                    <div class="rank-content">
+                        <div class="rank-content">Innovation Fund Denmark</div>
+                        <div class="rank-desc">Best aligned grant based on answers</div>
+                    </div>
+                </div>
+                <div class="rank-box">
+                    <div class="rank-number">#2</div>
+                    <div class="rank-content">
+                        <div class="rank-content">EU Horizon Europe</div>
+                        <div class="rank-desc">Strong fit; slightly narrower scope</div>
+                    </div>
+                </div>
+                <div class="rank-box">
+                    <div class="rank-number">#3</div>
+                    <div class="rank-content">
+                        <div class="rank-content">Nordic Innovation</div>
+                        <div class="rank-desc">Requires extra eligibility check</div>
+                    </div>
+                </div>
+                <div class="rank-box">
+                    <div class="rank-number">#4</div>
+                    <div class="rank-content">
+                        <div class="rank-content">Danish Growth Fund</div>
+                        <div class="rank-desc">Good fit with specific requirements</div>
+                    </div>
+                </div>
+                <div class="rank-box">
+                    <div class="rank-number">#5</div>
+                    <div class="rank-content">
+                        <div class="rank-content">Vækstfonden</div>
+                        <div class="rank-desc">Possible match with modifications</div>
+                    </div>
+                </div>
+            </aside>
+        </div>
+        
+        <div class="content-section">
+            <h2 class="top-picks">Best grants specifically for you:</h2>
+            
+            <div class="picks-container">
+                <!-- Top tier: Gold, Silver, Bronze -->
+                <div class="top-tier">
+                    <div class="pick-card silver">
+                        <div class="pick-number">#2</div>
+                        <div class="pick-content">
+                            <div class="pick-title">EU Horizon Europe</div>
+                            <div class="pick-desc">Strong fit; slightly narrower scope</div>
+                        </div>
+                    </div>
+                    <div class="pick-card gold">
+                        <div class="pick-number">#1</div>
+                        <div class="pick-content">
+                            <div class="pick-title">Innovation Fund Denmark</div>
+                            <div class="pick-desc">Best aligned grant based on answers</div>
+                        </div>
+                    </div>
+                    <div class="pick-card bronze">
+                        <div class="pick-number">#3</div>
+                        <div class="pick-content">
+                            <div class="pick-title">Nordic Innovation</div>
+                            <div class="pick-desc">Requires extra eligibility check</div>
+                        </div>
+                    </div>
+                </div>
+                
+            <p class="cta-text">If you ever need investments, sign up at: <a href="https://investofind.com">investofind.com</a></p>
+            
+            <div class="other-picks">
+                <div class="pick-card">
+                    <div class="pick-number">#4</div>
+                    <div class="pick-content">
+                        <div class="pick-title">Danish Growth Fund</div>
+                        <div class="pick-desc">Good fit with specific requirements</div>
+                    </div>
+                </div>
+                <div class="pick-card">
+                    <div class="pick-number">#5</div>
+                    <div class="pick-content">
+                        <div class="pick-title">Vækstfonden</div>
+                        <div class="pick-desc">Possible match with modifications</div>
+                    </div>
+                </div>
+                <div class="pick-card">
+                    <div class="pick-number">#6</div>
+                    <div class="pick-content">
+                        <div class="pick-title">Realdania Foundation</div>
+                        <div class="pick-desc">Sustainable development focus</div>
+                    </div>
+                </div>
+                <div class="pick-card">
+                    <div class="pick-number">#7</div>
+                    <div class="pick-content">
+                        <div class="pick-title">Carlsberg Foundation</div>
+                        <div class="pick-desc">Research and innovation grants</div>
+                    </div>
+                </div>
+                <div class="pick-card">
+                    <div class="pick-number">#8</div>
+                    <div class="pick-content">
+                        <div class="pick-title">AP Møller Foundation</div>
+                        <div class="pick-desc">Technology and entrepreneurship</div>
+                    </div>
+                </div>
+                <div class="pick-card">
+                    <div class="pick-number">#9</div>
+                    <div class="pick-content">
+                        <div class="pick-title">Ny Carlsberg Foundation</div>
+                        <div class="pick-desc">Arts and culture funding</div>
+                    </div>
+                </div>
+                <div class="pick-card">
+                    <div class="pick-number">#10</div>
+                    <div class="pick-content">
+                        <div class="pick-title">Lolland Development Fund</div>
+                        <div class="pick-desc">Regional development initiatives</div>
+                    </div>
+                </div>
+            </div>
+
+            <p class="cta-text">We match startups and industry people with money. If that's you, sign up at: <a href="https://investofind.com">investofind.com</a></p>
+        </div>
+    </div>
+    <script src="index.js"></script>
+    </body>
+</html>
