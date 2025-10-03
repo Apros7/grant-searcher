@@ -1,0 +1,82 @@
+[
+  {
+    "fund_name": "New Carlsberg Foundation Grants",
+    "host": "New Carlsberg Foundation",
+    "url": "https://ny-carlsbergfondet.dk/en/soeg-i-bevillinger",
+    "summary": "Grants provided for works of art, art projects, and art research including specific support for projects, works of art, decorative commissions, and books. Supports visual arts, applied art, and building and landscape architecture.",
+    "eligible_applicants": [
+      "Artists",
+      "Researchers",
+      "Art institutions",
+      "Museums",
+      "Art centers",
+      "Exhibition venues"
+    ],
+    "activity_types": [
+      "Art projects",
+      "Research fellowships",
+      "Exhibition development and presentation",
+      "Decorative commissions",
+      "Artworks",
+      "Research projects in art and architecture"
+    ],
+    "deadlines": [
+      {
+        "application_deadline": "2024-02-07",
+        "decided_at": null
+      }
+    ],
+    "reporting_requirements": [],
+    "contact": {
+      "email": null
+    }
+  },
+  {
+    "fund_name": "Carlsberg Foundation Research Prizes",
+    "host": "Carlsberg Foundation",
+    "url": "https://www.carlsbergfondet.dk/en/about-the-foundation/the-carlsberg-foundation-research-prizes/about-the-carlsberg-foundation-research-prizes/",
+    "summary": "Annual prizes awarded to two active researchers who have made crucial contributions to basic research. One prize for natural sciences and one for humanities or social sciences. Each prize is DKK 2 million, including personal use and research funding to encourage further international research activities.",
+    "eligible_applicants": [
+      "Active researchers",
+      "Researchers in Denmark or abroad"
+    ],
+    "activity_types": [
+      "Basic research",
+      "Research projects",
+      "International studies",
+      "Fieldwork",
+      "Laboratory work",
+      "Funding for scientific assistance"
+    ],
+    "deadlines": [],
+    "reporting_requirements": [],
+    "contact": {
+      "email": null
+    }
+  },
+  {
+    "fund_name": "New Carlsberg Foundation Exhibition Fund",
+    "host": "New Carlsberg Foundation",
+    "url": "https://ny-carlsbergfondet.dk/en",
+    "summary": "Supports museums, art centers, and exhibition venues to develop and hold exhibitions related to the visual arts.",
+    "eligible_applicants": [
+      "Museums",
+      "Art centers",
+      "Exhibition venues"
+    ],
+    "activity_types": [
+      "Exhibition development",
+      "Exhibition holding/presentation"
+    ],
+    "deadlines": [
+      {
+        "application_deadline": "2024-02-07",
+        "decided_at": null
+      }
+    ],
+    "reporting_requirements": [],
+    "contact": {
+      "email": null
+    }
+  }
+]

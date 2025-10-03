@@ -1,0 +1,42 @@
+{
+  "fund_name": "The Danish Maritime Fund",
+  "host": "Den Danske Maritime Fond",
+  "url": "https://dendanskemaritimefond.dk/",
+  "summary": "A commercial fund established in 2005 supporting the growth of the Danish maritime sector through financial support for innovation projects, entrepreneurship, maritime business development, academic research, and maritime education. It focuses on high-risk, forward-looking initiatives in digitization, automation, green transition, and research with the aim to create jobs and develop the Danish maritime industry.",
+  "eligible_applicants": [
+    "Companies with significant activities in Denmark",
+    "Institutions with significant activities in Denmark",
+    "Individuals with significant activities in Denmark",
+    "Applicants with attachment to or strong interest in the Danish maritime industry, including shipping, shipbuilding, ancillary industries, service companies, research and education institutions, service organisations, and public authorities"
+  ],
+  "activity_types": [
+    "Innovation projects",
+    "Entrepreneurship",
+    "Maritime business development",
+    "Academic research",
+    "Maritime education development",
+    "Public utility projects",
+    "Business projects",
+    "Research",
+    "Conferences and events",
+    "Political initiatives"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "Four times a year (quarterly board meetings)",
+      "decided_at": "Board meetings following application deadlines"
+    },
+    {
+      "application_deadline": "Ongoing for MBA grants",
+      "decided_at": "Continuous processing"
+    }
+  ],
+  "reporting_requirements": [
+    "Information on project progress as per grant agreement",
+    "Requirement to demonstrate use of funds in accordance with stated purpose",
+    "Submission of financial and activity reports upon project completion or as requested"
+  ],
+  "contact": {
+    "email": "info@dendanskemaritimefond.dk"
+  }
+}

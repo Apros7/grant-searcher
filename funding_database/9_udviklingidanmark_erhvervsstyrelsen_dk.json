@@ -1,0 +1,32 @@
+{
+  "fund_name": "Development of New Green Technologies in North and South Jutland",
+  "host": "Danish Business Authority (Erhvervsstyrelsen)",
+  "url": "https://udviklingidanmark.erhvervsstyrelsen.dk/udvikling-af-nye-groenne-teknologier-i-nord-og-sydjylland",
+  "summary": "This funding initiative supports projects that promote the development and implementation of new green technologies in the North and South Jutland regions to drive sustainable innovation and regional green growth.",
+  "eligible_applicants": [
+    "Companies",
+    "Startups",
+    "Research institutions",
+    "Collaborations between public and private sector entities"
+  ],
+  "activity_types": [
+    "Research and development",
+    "Technology demonstration",
+    "Feasibility studies",
+    "Green technology innovation projects"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "TBA (expected cycle aligned with 2025 funding rounds)",
+      "decided_at": "TBA"
+    }
+  ],
+  "reporting_requirements": [
+    "Regular progress reports aligned with project milestones",
+    "Final project outcomes and usability in green transitions",
+    "Documentation on environmental impact and commercial viability"
+  ],
+  "contact": {
+    "email": "udviklingidanmark@erhvervsstyrelsen.dk"
+  }
+}

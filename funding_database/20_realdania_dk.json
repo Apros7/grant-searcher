@@ -1,0 +1,28 @@
+{
+  "fund_name": "Realdania Grants",
+  "host": "Realdania",
+  "url": "https://realdania.dk/soeg-stoette/bevar-mere-eksempelbyggeri",
+  "summary": "Realdania provides funding to support innovative projects in the built environment, including circular construction, renovation, and climate-friendly building practices. They prioritize projects anchored in Denmark or having a clear reference to Denmark. Applications can be made by organizations and individuals. Funding aims to promote sustainability, reduction of resource consumption and CO2 emissions, and improving quality of life through built environment enhancements.",
+  "eligible_applicants": [
+    "Organizations",
+    "Individual persons"
+  ],
+  "activity_types": [
+    "Circular construction",
+    "Building renovation",
+    "Sustainable building projects",
+    "Climate-friendly construction",
+    "Research on regenerative built environment",
+    "Knowledge development and method sharing for renovation"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": null,
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [],
+  "contact": {
+    "email": "info@realdania.dk"
+  }
+}

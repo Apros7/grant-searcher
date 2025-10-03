@@ -1,0 +1,25 @@
+{
+  "fund_name": "AAU Startup Grant",
+  "host": "Aalborg University in collaboration with The Obelske Family Foundation",
+  "url": "https://www.studerende.aau.dk/valg-undervejs-og-job/ivaerksaetteri-og-entreprenorskab/aau-startup-legat",
+  "summary": "The AAU Startup Grant supports Aalborg University entrepreneurs in advancing their startups to the next level and establishing sustainable businesses. Annually, six grants of 250,000 DKK are offered in two rounds (summer and winter). Applicants are assessed on conviction, validation, impact, and business basis. Eligibility requires active enrollment or recent completion of phase three of the AAU Startup Program. Grant distribution requires a CVR number. Applications are submitted via email to startup@aau.dk.",
+  "eligible_applicants": [
+    "Entrepreneurs actively enrolled in phase three of the AAU Startup Program",
+    "Entrepreneurs who have completed phase three of the AAU Startup Program within the last nine months"
+  ],
+  "activity_types": [
+    "Startup development",
+    "Business establishment and growth",
+    "Entrepreneurship activities"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "Two annual rounds: summer and winter",
+      "decided_at": "After each respective round, with the final round scheduled for spring 2026"
+    }
+  ],
+  "reporting_requirements": [],
+  "contact": {
+    "email": "startup@aau.dk"
+  }
+}

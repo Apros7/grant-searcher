@@ -1,0 +1,35 @@
+{
+  "fund_name": "Clean Energy Transition Partnership Joint Call 2025",
+  "host": "Innovationsfonden (Danish Innovation Fund) within the Clean Energy Transition Partnership",
+  "url": "https://innovationsfonden.dk/da/p/internationale-samarbejder/clean-energy-transition-call-0",
+  "summary": "The Clean Energy Transition Partnership (CETP) Joint Call 2025 is a transnational funding opportunity supporting research, development, and innovation projects that accelerate the clean energy transition towards climate neutrality by 2050. It targets large-scale international projects organized in consortia addressing seven thematic Transition Initiatives covering energy systems, power technologies, storage, heating and cooling, regional and industrial energy systems, and built environment integration. The total budget is approximately EUR 80 million gathered from multiple national and regional funding bodies under Horizon Europe.",
+  "eligible_applicants": [
+    "Transnational research and innovation consortia",
+    "Research organizations",
+    "Companies involved in RDI projects",
+    "Academic institutions",
+    "Public and private sector partners from more than 30 countries"
+  ],
+  "activity_types": [
+    "Research",
+    "Development",
+    "Innovation projects",
+    "Collaborative international RDI",
+    "Technology development and demonstration"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-09T13:00:00+01:00",
+      "decided_at": "2026 (date TBD)"
+    }
+  ],
+  "reporting_requirements": [
+    "Project updates and financial reports according to funding agencies' guidelines",
+    "Compliance with Horizon Europe RDI reporting standards",
+    "National funding body-specific reporting",
+    "Consortium-level progress and deliverables submissions"
+  ],
+  "contact": {
+    "email": "info@innovationsfonden.dk"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "fund_name": "EIC Pathfinder Challenges 2025",
+  "host": "European Innovation Council (EIC), European Commission",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-03",
+  "summary": "The EIC Pathfinder Challenges 2025 under Horizon Europe supports early-stage, high-risk/high-reward deep tech research projects with breakthrough innovation potential in four strategic areas: biotech for climate resilient crops and plant-based bio-manufacturing; generative AI agents for complex applications; next-generation health technologies; and deep-tech solutions for clean energy and sustainable environments. Grants up to €4 million are available to support projects aiming to create new markets and radically change industries or societal solutions.",
+  "eligible_applicants": [
+    "Universities",
+    "Research organisations",
+    "Start-ups",
+    "SMEs",
+    "Larger enterprises",
+    "Single applicants or consortia"
+  ],
+  "activity_types": [
+    "High-risk/high-gain research",
+    "Early-stage research up to Technology Readiness Level (TRL) 4",
+    "Visionary science and deep-tech innovation",
+    "Interdisciplinary research"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-29",
+      "decided_at": "2025-10"
+    }
+  ],
+  "reporting_requirements": [
+    "Projects must present a long-term vision for breakthrough innovation",
+    "Regulatory awareness and ecological soundness for biotech projects",
+    "Continuation measures expected post-Pathfinder including intellectual property generation"
+  ],
+  "contact": {
+    "email": "EIC-Pathfinder@ec.europa.eu"
+  }
+}

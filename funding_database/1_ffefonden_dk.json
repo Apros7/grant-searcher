@@ -1,0 +1,40 @@
+[
+  {
+    "fund_name": "Micro Grant",
+    "host": "Danish Foundation for Entrepreneurship (Fonden for Entreprenørskab)",
+    "url": "https://mikrolegat.ffefonden.dk/english/",
+    "summary": "Financial support for students in higher education or upper secondary education developing an idea or starting their own business. Up to DKK 50,000 in soft funding that does not require repayment.",
+    "eligible_applicants": [
+      "Students in higher education",
+      "Pupils in upper secondary education"
+    ],
+    "activity_types": [
+      "Idea development",
+      "Startup creation"
+    ],
+    "deadlines": [],
+    "reporting_requirements": [],
+    "contact": {
+      "email": "tilde@ffefonden.dk"
+    }
+  },
+  {
+    "fund_name": "Kickstart Micro Grant",
+    "host": "Danish Foundation for Entrepreneurship (Fonden for Entreprenørskab)",
+    "url": "https://mikrolegat.ffefonden.dk/english/kickstart-micro-grant-application/",
+    "summary": "Financial support for vocational education students or recent graduates developing an idea or startup. Up to DKK 50,000 with a required 25% self-financing. Includes mentoring support of minimum three months.",
+    "eligible_applicants": [
+      "Students in vocational education programs (EUD or EUX) in Denmark",
+      "Recent vocational education graduates (within last 3 months)"
+    ],
+    "activity_types": [
+      "Idea development",
+      "Startup creation"
+    ],
+    "deadlines": [],
+    "reporting_requirements": [],
+    "contact": {
+      "email": "line@ffefonden.dk"
+    }
+  }
+]

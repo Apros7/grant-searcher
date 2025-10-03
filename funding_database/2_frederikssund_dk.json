@@ -1,0 +1,42 @@
+{
+  "fund_name": "Culture Pool (Kulturpuljen)",
+  "host": "Frederikssund Municipality",
+  "url": "https://www.frederikssund.dk/Borger/Kultur--fritid/Tilskud-og-puljer/Kulturpuljen",
+  "summary": "The Culture Pool aims to promote open cultural events and activities to support a vibrant cultural life throughout Frederikssund Municipality. It provides co-financing for cultural associations and institutions for activities such as applications to state funds and other foundations.",
+  "eligible_applicants": [
+    "Citizens residing in Frederikssund Municipality",
+    "Associations",
+    "Municipal cultural institutions",
+    "Self-governing institutions located in Frederikssund Municipality"
+  ],
+  "activity_types": [
+    "Open cultural events",
+    "Cultural activities",
+    "Extraordinary cultural arrangements (when arranged in collaboration with volunteer associations)"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "2025-01-06",
+      "decided_at": "Before event date after 2025-01-28"
+    },
+    {
+      "application_deadline": "2025-04-06",
+      "decided_at": "Before event date after 2025-05-06"
+    },
+    {
+      "application_deadline": "2025-08-06",
+      "decided_at": "Before event date after 2025-09-02"
+    },
+    {
+      "application_deadline": "2025-10-06",
+      "decided_at": "Before event date after 2025-11-04"
+    }
+  ],
+  "reporting_requirements": [
+    "Applications are subject to review by Frederikssund Culture Council before final decision by the Leisure and Culture Committee",
+    "Applications must be submitted electronically via Frederikssund Municipality's website"
+  ],
+  "contact": {
+    "email": ""
+  }
+}

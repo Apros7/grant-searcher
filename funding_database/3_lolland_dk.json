@@ -1,0 +1,28 @@
+{
+  "fund_name": "Free Cultural Funds (Frie Kulturmidler)",
+  "host": "Lolland Municipality",
+  "url": "https://www.lolland.dk/om-kommunen/tilskud-og-puljer/tilskud-og-puljer-for-foreninger/frie-kulturmidler",
+  "summary": "These are funds provided by Lolland Municipality to support cultural activities of associations. The funds aim to strengthen cultural life and contribute to a vibrant community by subsidizing various cultural projects and events.",
+  "eligible_applicants": [
+    "Associations",
+    "Cultural organizations on Lolland"
+  ],
+  "activity_types": [
+    "Cultural activities",
+    "Events",
+    "Artistic projects"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "Check annually on the website (usually early in the year)",
+      "decided_at": "Usually several months after deadline, specific dates vary"
+    }
+  ],
+  "reporting_requirements": [
+    "Applicants must provide documentation of how the funds were used.",
+    "Report on the results of the funded activity may be required."
+  ],
+  "contact": {
+    "email": "kultur@lolland.dk"
+  }
+}

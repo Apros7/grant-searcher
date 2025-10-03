@@ -1,0 +1,29 @@
+{
+  "fund_name": "The Danish Maritime Fund",
+  "host": "The Danish Maritime Fund Secretariat",
+  "url": "https://dendanskemaritimefond.dk/for-ansoegere/ansoegningsfrister/",
+  "summary": "The Danish Maritime Fund supports growth and innovation in the Danish shipping and shipbuilding industry with grants and loans. It focuses on high-risk, forward-looking projects that shape the future maritime sector, including digitization, automation, green transition, entrepreneurship, research, and maritime education. Funding is available to companies, institutions, or individuals with significant ties to the Danish maritime industry. Applications are processed four times yearly with deadlines approximately six weeks before board meetings.",
+  "eligible_applicants": [
+    "Companies with significant activities in Denmark",
+    "Institutions with ties to the Danish maritime industry",
+    "Individuals with a strong interest or attachment to the Danish maritime industry"
+  ],
+  "activity_types": [
+    "Innovation projects",
+    "Research and development",
+    "Education development",
+    "Collaborative projects between companies and educational institutions",
+    "Green transition initiatives",
+    "Digitization and automation projects"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "Approximately six weeks before each board meeting",
+      "decided_at": "Board meetings held four times annually in March, June, September, and December"
+    }
+  ],
+  "reporting_requirements": [],
+  "contact": {
+    "email": "info@dendanskemaritimefond.dk"
+  }
+}

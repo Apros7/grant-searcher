@@ -1,0 +1,24 @@
+{
+  "fund_name": "Sydfynske Fond",
+  "host": "Sydfynske Fond",
+  "url": "https://www.sydfyenskefonden.dk/om-fonden-2.html",
+  "summary": "Sydfynske Fond is a charitable foundation supporting projects that develop the local community and enhance social, cultural, and environmental life in the South Funen region of Denmark.",
+  "eligible_applicants": [
+    "Associations",
+    "Clubs",
+    "Foundations",
+    "Companies",
+    "Individuals involved in community development"
+  ],
+  "activity_types": [
+    "Social initiatives",
+    "Cultural events and projects",
+    "Environmental projects",
+    "Local development programs"
+  ],
+  "deadlines": [],
+  "reporting_requirements": [],
+  "contact": {
+    "email": "info@sydfyenskefonden.dk"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "fund_name": "Spilfremme",
+  "host": "NIMBI - Danish Institute for Game Development",
+  "url": "https://www.nimbi.dk/støtte/spilfremme",
+  "summary": "Grants for activities advancing Danish digital games and the broader games industry. Supports spreading awareness of Danish games, promoting professional dialogue, and initiatives enhancing game quality and cultural impact. Funding covers a range of formats including events, publications, and promotional activities aimed at elevating the Danish game development scene.",
+  "eligible_applicants": [
+    "Game developers",
+    "Game industry professionals",
+    "Game publishers",
+    "Event organizers",
+    "Publishers of game-related content",
+    "Creative projects related to Danish digital games"
+  ],
+  "activity_types": [
+    "Awareness campaigns for Danish games domestically and internationally",
+    "Professional-level industry discussions and events",
+    "Promotional initiatives for Danish children's games",
+    "Publications and research on Danish digital games",
+    "Projects improving quality and reach of Danish digital games"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "June 9, 2025",
+      "decided_at": "Mid July 2025"
+    },
+    {
+      "application_deadline": "September 23, 2025, noon",
+      "decided_at": "Early October 2025"
+    }
+  ],
+  "reporting_requirements": [
+    "Applicants must document the use of funds and report on the outcomes of their funded activities as required by NIMBI."
+  ],
+  "contact": {
+    "email": "karenj@dfi.dk"
+  }
+}

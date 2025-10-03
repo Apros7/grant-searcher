@@ -1,0 +1,37 @@
+{
+  "fund_name": "Energy Technology Development and Demonstration Programme (EUDP) - Danish Participation under the Clean Energy Transition Partnership (CETPartnership)",
+  "host": "Energy Technology Development and Demonstration Programme (EUDP), Denmark",
+  "url": "https://eudp.dk/soeg-tilskud/indkaldelse-ansoegninger-til-dansk-deltagelse-under-cetpartnership",
+  "summary": "EUDP funds Danish development and demonstration projects under the CETPartnership joint call 2025, focused on green energy technologies that support Denmark's climate goals. It does not fund research activities under CETPartnership, which are financed by Innovation Fund Denmark instead. EUDP grants support development and demonstration activities with an emphasis on technical maturity, market potential, and commercialization. Projects may receive up to 10 million DKK (~1.34 million EUR) with 1-4 projects expected to be funded.",
+  "eligible_applicants": [
+    "Danish companies",
+    "Universities",
+    "Enterprises involved in energy technology development and demonstration"
+  ],
+  "activity_types": [
+    "Development",
+    "Demonstration",
+    "Feasibility studies",
+    "Technology partnerships",
+    "Dissemination projects"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-09",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2026-03-12",
+      "decided_at": "2026-06"
+    }
+  ],
+  "reporting_requirements": [
+    "Submission of a short national EUDP-application for legal compliance",
+    "EUDP Gantt diagram",
+    "EUDP budget file",
+    "Financial statement validating company is not in difficulty"
+  ],
+  "contact": {
+    "email": "wbl@ens.dk"
+  }
+}

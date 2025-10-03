@@ -1,0 +1,28 @@
+{
+  "fund_name": "Grant Pool to Promote Energy Export Efforts",
+  "host": "The Danish Energy Agency",
+  "url": "https://ens.dk/tilskud-og-puljer/tilskuds-stoetteordninger/tilskudspulje-til-fremme-af-energieksportindsatsen",
+  "summary": "This grant pool supports projects that promote green energy-related export initiatives and strengthen Danish companies' international energy export activities. It prioritizes projects that increase knowledge of new markets for green energy technology exports and involve clear partner engagement.",
+  "eligible_applicants": [
+    "Danish companies",
+    "Project partners with clearly defined roles"
+  ],
+  "activity_types": [
+    "Promotion of green energy export projects",
+    "Market knowledge development for energy technology export",
+    "Collaborative projects with defined partner roles"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": null,
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Projects must meet formal application criteria",
+    "Projects are scored and ranked, requiring a minimum score of 7 out of 15 to be considered for grants"
+  ],
+  "contact": {
+    "email": null
+  }
+}

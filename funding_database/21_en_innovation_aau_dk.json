@@ -1,0 +1,26 @@
+```json
+{
+    "fund_name": "AAU Research to Business Pilot Grant",
+    "host": "Aalborg University",
+    "url": "https://www.en.innovation.aau.dk/researchers/innovation-funding/research-to-business-pilot-grant",
+    "summary": "An innovation grant supporting the commercial maturation of groundbreaking research-based technologies and software from Aalborg University.",
+    "eligible_applicants": [
+        "Researchers employed at Aalborg University"
+    ],
+    "activity_types": [
+        "Commercialization of research-based technologies and software"
+    ],
+    "deadlines": [
+        {
+            "application_deadline": "October 31st, 2025",
+            "decided_at": "Not specified"
+        }
+    ],
+    "reporting_requirements": [
+        "Project must be finalized by April 30th, 2026"
+    ],
+    "contact": {
+        "email": "patent@adm.aau.dk"
+    }
+}
+```

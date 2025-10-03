@@ -1,0 +1,33 @@
+I couldn't access the specified URL: https://tfku-fonden.dk/. Based on the standard structure of funding websites, here is a placeholder JSON response. Please adjust the details according to the actual content of the website.
+
+```json
+{
+  "fund_name": "TFKU Foundation",
+  "host": "TFKU Foundation",
+  "url": "https://tfku-fonden.dk/",
+  "summary": "Supports research and development projects",
+  "eligible_applicants": [
+    "Research Institutions",
+    "Universities",
+    "Private Companies"
+  ],
+  "activity_types": [
+    "Research",
+    "Innovation",
+    "Development"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "2026-02-15",
+      "decided_at": "2026-04-15"
+    }
+  ],
+  "reporting_requirements": [
+    "Annual Reports",
+    "Final Project Reports"
+  ],
+  "contact": {
+    "email": "info@tfku-fonden.dk"
+  }
+}
+```

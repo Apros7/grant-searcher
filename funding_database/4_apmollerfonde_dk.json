@@ -1,0 +1,22 @@
+{
+  "fund_name": "The Fund for the Advancement of Medicine",
+  "host": "A. P. Møller Fonden",
+  "url": "https://www.apmollerfonde.dk/ansoegning/fonden-til-laegevidenskabens-fremme/",
+  "summary": "Provides grants to scientifically active clinics, laboratories and institutions for projects including operating expenses (test materials), laboratory remuneration, procurement of small appliances, and payment of non-scientific labor. Research year projects typically have limited support. Applicants must be fully funded during the project period. Applications must be sent by signed and dated letter; there are no application forms, no email applications, and no deadlines. Response time varies. Further information can be requested by the Fund.",
+  "eligible_applicants": [
+    "Clinics",
+    "Laboratories",
+    "Research institutions"
+  ],
+  "activity_types": [
+    "Research projects in medicine",
+    "Operational expenses related to research",
+    "Procurement of research equipment",
+    "Non-scientific labor costs"
+  ],
+  "deadlines": [],
+  "reporting_requirements": [],
+  "contact": {
+    "email": null
+  }
+}

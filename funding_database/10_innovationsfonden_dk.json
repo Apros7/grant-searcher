@@ -1,0 +1,33 @@
+{
+  "fund_name": "Innobooster",
+  "host": "Innovation Fund Denmark (Innovationsfonden)",
+  "url": "https://innovationsfonden.dk/da/p/innobooster/innobooster-4",
+  "summary": "Innobooster is a grant programme aimed at start-ups, entrepreneurs, and SMEs with knowledge-based innovative ideas to develop new products, services, or processes for market readiness and to increase competitiveness and growth. The grant can cover up to 35% of project expenses and ranges from DKK 50,000 to DKK 5 million. It supports projects with significant risk and novelty that contribute to solving societal challenges and economic growth in Denmark. Applications can be submitted in Danish or English, but the application form is in Danish only. The programme encourages collaborations with knowledge institutions and may fund expert hiring. The funding decision takes 2-4 months and operates with multiple application intervals throughout the year with continuous deadlines.",
+  "eligible_applicants": [
+    "Start-ups",
+    "Entrepreneurs",
+    "Small and medium-sized enterprises (SMEs) with a Danish CVR number"
+  ],
+  "activity_types": [
+    "Development of new products or services",
+    "Improvement of company processes",
+    "Research-based innovation projects",
+    "Testing and customization of products/services",
+    "Collaborations with knowledge institutions",
+    "Hiring skilled employees for innovation"
+  ],
+  "deadlines": [
+    {
+      "application_deadline": "Continuous",
+      "decided_at": "2-4 months after application"
+    }
+  ],
+  "reporting_requirements": [
+    "Information about support agreements",
+    "Project reporting as per Innovation Fund guidelines",
+    "Communication of project progress (details available upon approval)"
+  ],
+  "contact": {
+    "email": "post@innovationsfonden.dk"
+  }
+}
