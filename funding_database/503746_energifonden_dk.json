@@ -1,0 +1,38 @@
+[
+  {
+    "fund_name": "Miljø og Energifonden",
+    "host": "Miljø og Energifonden",
+    "url": "https://energifonden.dk/vi-stoetter/",
+    "summary": "A small private fund providing around 500,000 DKK annually to approximately 50 Danish projects focusing on renewable energy and solutions to environmental problems. The fund supports idea-stage projects helping applicants acquire expert knowledge or conduct tests with full or partial funding. Support excludes salary funding and targets tools or materials needed to present ideas. The fund emphasizes ideas with potential for widespread and lasting environmental impact. Applicants must reside in Denmark or be Danish-based associations or organizations.",
+    "eligible_applicants": [
+      "Individuals residing in Denmark",
+      "Associations/organizations based in Denmark"
+    ],
+    "activity_types": [
+      "Idea development",
+      "Expert knowledge acquisition",
+      "Testing and prototyping"
+    ],
+    "category": {
+      "main_category": "Environment & Sustainability",
+      "sub_categories": [
+        "Renewable Energy",
+        "Energy Efficiency",
+        "General Innovation",
+        "Cross-Industry Collaboration"
+      ]
+    },
+    "deadlines": [
+      {
+        "application_deadline": "Scheduled meetings only; applications submitted after deadline are rejected immediately",
+        "decided_at": "At scheduled board meetings (dates not publicly specified)"
+      }
+    ],
+    "reporting_requirements": [
+      "No explicit reporting requirements found; support is aimed to cover tools/materials excluding salary, emphasizing practical progress"
+    ],
+    "contact": {
+      "email": null
+    }
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "fund_name": "MFK Almenefonden",
+  "host": "MFK Almenefonden",
+  "url": "https://mfk-almene-fond.dk/416958523",
+  "summary": "MFK Almenefonden offers funding for projects aligned with the foundation's purpose. Applicants must submit applications during the specific application periods, including a detailed project description, timeline, budget, and CVs of involved personnel. Changes in the project or application must be communicated proactively, and the foundation reserves the right to request additional information.",
+  "eligible_applicants": [
+    "Individuals or groups whose projects align with the foundation's purpose"
+  ],
+  "activity_types": [
+    "Project research and development",
+    "Innovative initiatives in line with fund's objectives"
+  ],
+  "category": {
+    "main_category": "Agnostic",
+    "sub_categories": [
+      "Open to All Fields"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-05-15",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-11-15",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Applicants must notify the foundation of any receipt of other funding before application processing",
+    "Must report any changes in the project or application information proactively",
+    "The foundation may request additional information during the process"
+  ],
+  "contact": {
+    "email": null
+  }
+}

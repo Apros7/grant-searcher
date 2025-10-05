@@ -1,0 +1,55 @@
+{
+  "fund_name": "Frie Kulturmidler",
+  "host": "Lolland Kommune",
+  "url": "https://www.lolland.dk/om-kommunen/tilskud-og-puljer/tilskud-og-puljer-for-foreninger/frie-kulturmidler",
+  "summary": "Frie Kulturmidler supports and develops cultural activities and events in the municipality. Funding is available to cultural actors, institutions, associations, and individuals with ideas for both large and small projects. Eligible projects include cultural events for all age groups, collaboration and knowledge sharing projects, and culture projects or broader popular cultural events that represent quality in their field.",
+  "eligible_applicants": [
+    "Cultural actors",
+    "Institutions",
+    "Associations",
+    "Individuals"
+  ],
+  "activity_types": [
+    "Cultural activities",
+    "Events",
+    "Collaboration projects",
+    "Knowledge sharing",
+    "Popular cultural events",
+    "Culture projects"
+  ],
+  "category": {
+    "main_category": "Arts & Culture",
+    "sub_categories": [
+      "Open to All Fields"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "Under 25,000 DKK applications: submitted continuously throughout the year",
+      "decided_at": "Approximately 4 weeks after submission"
+    },
+    {
+      "application_deadline": "For grants over 25,000 DKK: January 6",
+      "decided_at": "Approximately 4 weeks after submission"
+    },
+    {
+      "application_deadline": "For grants over 25,000 DKK: April 6",
+      "decided_at": "Approximately 4 weeks after submission"
+    },
+    {
+      "application_deadline": "For grants over 25,000 DKK: June 21",
+      "decided_at": "Approximately 4 weeks after submission"
+    },
+    {
+      "application_deadline": "For grants over 25,000 DKK: October 6",
+      "decided_at": "Approximately 4 weeks after submission"
+    }
+  ],
+  "reporting_requirements": [
+    "Recipients are required to submit an accounting report after the funding period",
+    "Compliance with application criteria must be met"
+  ],
+  "contact": {
+    "email": "dosk@lolland.dk"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "fund_name": "EIC Pathfinder Challenges 2025",
+  "host": "European Innovation Council (EIC), Horizon Europe Framework Programme",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-04",
+  "summary": "The EIC Pathfinder Challenges 2025 program funds early-stage, high-risk/high-gain deep-tech research projects up to Technology Readiness Level 4. It focuses on four strategic challenges including autonomous robot collectives in construction, waste-to-value devices, biotech for climate-resilient crops, and innovations for circular economy. The program supports visionary science aimed at breakthrough technologies with significant market and societal impact, offering grants up to €4 million.",
+  "eligible_applicants": [
+    "universities",
+    "research organisations",
+    "companies (start-ups)",
+    "SMEs",
+    "larger enterprises",
+    "single SMEs or consortia"
+  ],
+  "activity_types": [
+    "early-stage research",
+    "visionary science",
+    "high-risk/high-gain technology development",
+    "demonstration in laboratory environment"
+  ],
+  "category": {
+    "main_category": "Manufacturing",
+    "sub_categories": [
+      "Robotics",
+      "Industrial Automation",
+      "Sustainable Manufacturing",
+      "Smart Factories",
+      "Advanced Composites",
+      "Circular Economy"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2024-10-31T10:58:00Z",
+      "decided_at": "2025-07-11"
+    }
+  ],
+  "reporting_requirements": [
+    "Long-term vision for breakthrough innovation",
+    "Regulatory awareness and ecological soundness for biotech applications",
+    "Demonstration of technology proof of principle up to TRL 4",
+    "Presentation of project results for potential follow-up funding"
+  ],
+  "contact": {
+    "email": "EIC-Funding@ec.europa.eu"
+  }
+}

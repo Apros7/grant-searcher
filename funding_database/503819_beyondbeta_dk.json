@@ -1,0 +1,52 @@
+{
+  "fund_name": "Beyond Beta Accelerator Program",
+  "host": "Accelerace, Danish Business Hubs, Danish Design Center, TechBBQ, and 11 industry-specific clusters (including Danish Sound Cluster and Clean Cluster)",
+  "url": "https://www.beyondbeta.dk/accelerator-program",
+  "summary": "Beyond Beta is Denmark's largest accelerator program launched in 2020 that supports startups across various sectors by providing tailored mentoring, networking, an online toolbox, and access to investors to help startups scale and secure investment. It offers a fully tailored program based on individual startup needs and includes a free, online pre-accelerator on-demand toolbox to build for scale or join the core accelerator program. It has supported over 600 startups with an average growth of 28% in full-time equivalents and helped raise significant funding. The program is designed to meet the timing and market needs of startups without pushing acceleration at any cost.",
+  "eligible_applicants": [
+    "Startups across sectors",
+    "Water and environmental technology startups",
+    "Energy technology startups",
+    "Robotics startups",
+    "Lifestyle product startups",
+    "Digital technology startups",
+    "Food startups",
+    "Industrial automation startups",
+    "Startups focusing on sound (via Danish Sound Cluster)"
+  ],
+  "activity_types": [
+    "Mentoring",
+    "Business accelerator sessions",
+    "3-day camps",
+    "Online learning and courses",
+    "Networking events",
+    "Investor connection",
+    "Deep-dives into business challenges",
+    "Exposure through industry cluster membership"
+  ],
+  "category": {
+    "main_category": "Technology",
+    "sub_categories": [
+      "Cross-Industry Collaboration",
+      "General Innovation",
+      "Interdisciplinary Research",
+      "Multi-Sector Platforms",
+      "Universal Solutions",
+      "Emerging Fields",
+      "Robotics",
+      "Software Development",
+      "Digital Health",
+      "Environmental & Sustainability"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "December 1",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [],
+  "contact": {
+    "email": "tm@danishsoundcluster.dk"
+  }
+}

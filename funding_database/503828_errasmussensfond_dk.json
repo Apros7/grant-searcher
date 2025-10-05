@@ -1,0 +1,39 @@
+{
+  "fund_name": "Errasmussens Fund",
+  "host": "Errasmussens Foundation",
+  "url": "http://errasmussensfond.dk/",
+  "summary": "Errasmussens Fund provides grants to support innovative projects, particularly within arts, culture, and public welfare. The fund is known for offering financial support to initiatives that contribute significantly to Danish society.",
+  "eligible_applicants": [
+    "Individuals",
+    "Organizations",
+    "Researchers",
+    "Nonprofit organizations"
+  ],
+  "activity_types": [
+    "Project Funding",
+    "Research Support",
+    "Cultural Initiatives",
+    "Innovative Social Projects"
+  ],
+  "category": {
+    "main_category": "Nonprofit / NGO",
+    "sub_categories": [
+      "General Innovation",
+      "Arts & Culture",
+      "Public Health Innovation"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "Varies annually, typically announced on official website",
+      "decided_at": "Typically within 3-6 months after application deadline"
+    }
+  ],
+  "reporting_requirements": [
+    "Progress reports upon request",
+    "Final report detailing use of funds and outcomes"
+  ],
+  "contact": {
+    "email": "info@errasmussensfond.dk"
+  }
+}

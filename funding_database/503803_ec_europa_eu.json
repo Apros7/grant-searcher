@@ -1,0 +1,69 @@
+{
+  "fund_name": "EIC Accelerator Open 2025",
+  "host": "European Innovation Council (EIC) under Horizon Europe",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-ACCELERATOR-01",
+  "summary": "The EIC Accelerator Open 2025 supports single start-ups and SMEs developing breakthrough market-creating innovations beyond proof-of-concept (TRL≥5) for demonstration, market validation, and scale-up (up to TRL 8). It offers a blended financial package including grants up to €2.5 million and equity investments up to €15 million via the EIC Fund. The funding aims to accelerate the development and commercial deployment of innovative technologies in any field. Applicants undergo a three-step selection process: short proposal, full proposal, and face-to-face interview with the EIC Jury. The total budget for the open call is €384 million.",
+  "eligible_applicants": [
+    "Single for-profit legal entities established in EU Member States or Horizon Europe Associated Countries",
+    "Start-ups",
+    "SMEs including small mid-caps (up to 500 employees) (only for investment component)",
+    "Individuals intending to establish a start-up or SME"
+  ],
+  "activity_types": [
+    "Demonstration",
+    "Market-validation",
+    "Scale-up",
+    "Prototyping",
+    "Validation",
+    "Testing in real-world conditions",
+    "Market replication",
+    "Subcontracting work essential to the project"
+  ],
+  "category": {
+    "main_category": "Agnostic",
+    "sub_categories": [
+      "Open to All Fields",
+      "Cross-Industry Collaboration",
+      "General Innovation",
+      "Interdisciplinary Research",
+      "Multi-Sector Platforms",
+      "Universal Solutions",
+      "Emerging Fields",
+      "Software Development",
+      "Artificial Intelligence",
+      "Robotics",
+      "Digital Health",
+      "Medical Devices",
+      "Biotechnology",
+      "Healthcare IT",
+      "Clean Energy",
+      "Energy Efficiency",
+      "Smart Cities",
+      "Advanced Manufacturing",
+      "Nanotechnology in Manufacturing",
+      "Agricultural Technology (AgTech)",
+      "Educational Technology (EdTech)",
+      "Financial Technology",
+      "Environmental & Sustainability Solutions"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-03-12",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-10-01",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Submission of short proposal including overview and pitch materials",
+    "Submission of full proposal upon invitation",
+    "Participation in face-to-face interview with EIC Jury",
+    "Compliance with Horizon Europe reporting standards as per grant agreement"
+  ],
+  "contact": {
+    "email": "eic.accelerator@ec.europa.eu"
+  }
+}

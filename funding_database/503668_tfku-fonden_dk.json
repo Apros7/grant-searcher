@@ -1,0 +1,32 @@
+{
+  "fund_name": "TFKU Foundation",
+  "host": "TFKU Fonden",
+  "url": "https://tfku-fonden.dk/",
+  "summary": "The TFKU Foundation provides soft funding primarily aimed at fostering development, innovation and research projects. Specific details on funding scopes, eligibility, and deadlines are available on their official website.",
+  "eligible_applicants": [
+    "Individuals",
+    "Startups",
+    "SMEs",
+    "Research Institutions",
+    "Non-profit Organizations"
+  ],
+  "activity_types": [
+    "Research Projects",
+    "Innovation Development",
+    "Collaborative Initiatives"
+  ],
+  "category": {
+    "main_category": "Agnostic",
+    "sub_categories": [
+      "Open to All Fields",
+      "General Innovation",
+      "Cross-Industry Collaboration",
+      "Interdisciplinary Research"
+    ]
+  },
+  "deadlines": [],
+  "reporting_requirements": [],
+  "contact": {
+    "email": ""
+  }
+}

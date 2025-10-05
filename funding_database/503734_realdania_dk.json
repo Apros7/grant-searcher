@@ -1,0 +1,39 @@
+{
+  "fund_name": "Bevar Mere - Example Building",
+  "host": "Realdania",
+  "url": "https://realdania.dk/soeg-stoette/bevar-mere-eksempelbyggeri",
+  "summary": "A 10 million DKK fund financed by Realdania supporting development and documentation of example buildings that demonstrate new paths for transformation, conversion, and densification in housing construction. Aims to promote low climate footprint projects with rich and varied housing supply, focusing on community and quality of life as an attractive alternative to new builds.",
+  "eligible_applicants": [
+    "Developers",
+    "Property owners",
+    "Project leaders working with transformation, conversion, or densification of existing buildings into new homes"
+  ],
+  "activity_types": [
+    "Development activities",
+    "Documentation of example buildings",
+    "Transformation and conversion of existing buildings"
+  ],
+  "category": {
+    "main_category": "Construction",
+    "sub_categories": [
+      "Renovation",
+      "Urban Development",
+      "Sustainable Building",
+      "Energy-Efficient Buildings"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-30T12:00:00",
+      "decided_at": "2026-01"
+    }
+  ],
+  "reporting_requirements": [
+    "Documentation of development activities",
+    "Reports on transformation and densification processes",
+    "Final project outcomes"
+  ],
+  "contact": {
+    "email": "hpo@lbf.dk"
+  }
+}

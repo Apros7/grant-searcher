@@ -1,0 +1,36 @@
+{
+  "fund_name": "EIC Pre-Accelerator - Widening",
+  "host": "European Innovation Council (EIC) under the Horizon Europe Widening Participation and Strengthening the European Research Area (WIDERA) programme",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2025-02-ACCESS-01",
+  "summary": "The EIC Pre-Accelerator aims to boost the innovation potential of early-stage deep-tech startups established in widening countries by enhancing business readiness, investor readiness, and technology maturation. It provides grants to support market readiness activities, investor preparation, technology scaling, and preparation for the EIC Accelerator Fast Track.",
+  "eligible_applicants": [
+    "Startups established in widening countries"
+  ],
+  "activity_types": [
+    "Market readiness activities (business case development, growth planning, certification)",
+    "Investor readiness preparation (IP protection, revenue modelling)",
+    "Technology maturation (real-world testing, scaling prototypes)",
+    "Preparation for EIC Accelerator Fast Track"
+  ],
+  "category": {
+    "main_category": "Technology",
+    "sub_categories": [
+      "Deep Tech",
+      "General Innovation",
+      "Cross-Industry Collaboration"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-11-18T17:00:00+02:00",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Lump sum funding with periodic reporting per Horizon Europe rules",
+    "Compliance with eligibility and financial capacity requirements described in General Annexes of Horizon Europe"
+  ],
+  "contact": {
+    "email": null
+  }
+}

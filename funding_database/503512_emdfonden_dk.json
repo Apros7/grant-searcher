@@ -1,0 +1,21 @@
+{
+  "fund_name": "EMDFonden",
+  "host": "EMDFonden",
+  "url": "https://emdfonden.dk/uddelinger/",
+  "summary": "EMDFonden is a commercial foundation dedicated to disseminating and developing knowledge and technology to reduce resource use and environmental impact, primarily through supporting development and use of software, calculation models, calculation methods, and consultancy services. It also supports general research that promotes these goals.",
+  "eligible_applicants": ["Researchers", "Innovation projects", "Companies", "Consultants"],
+  "activity_types": ["Development of software", "Development of calculation models and methods", "Consultancy related to above", "General research support"],
+  "category": {
+    "main_category": "Environment & Sustainability",
+    "sub_categories": [
+      "General Innovation",
+      "Software Development",
+      "Energy Efficiency"
+    ]
+  },
+  "deadlines": [],
+  "reporting_requirements": [],
+  "contact": {
+    "email": "info@emdfonden.dk"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "fund_name": "Grant Pool to Promote Energy Export Efforts",
+  "host": "Danish Ministry of Climate, Energy and Utilities",
+  "url": "https://ens.dk/tilskud-og-puljer/tilskuds-stoetteordninger/tilskudspulje-til-fremme-af-energieksportindsatsen",
+  "summary": "This grant pool aims to support projects within green energy that promote Denmark's energy export efforts through expanding public-private cooperation and government collaborations in future growth markets. The fund supports initiatives that advance the Danish energy export by leveraging international partnerships and innovative green energy solutions.",
+  "eligible_applicants": [
+    "Public-private partnerships",
+    "Danish authorities",
+    "Private companies active in green energy export",
+    "Consortia involving both private and public sector participants"
+  ],
+  "activity_types": [
+    "Project development",
+    "International cooperation",
+    "Green energy technology implementation",
+    "Market expansion initiatives"
+  ],
+  "category": {
+    "main_category": "Energy",
+    "sub_categories": [
+      "Renewable Energy",
+      "Energy Efficiency",
+      "Green Hydrogen",
+      "Energy Management Software",
+      "Grid Modernization"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "To be announced on the Danish Energy Agency and State Grant Pools websites",
+      "decided_at": ""
+    }
+  ],
+  "reporting_requirements": [
+    "Documentation of project expenditures",
+    "Compliance with grant conditions",
+    "Periodic progress reports",
+    "Final report on outcomes related to energy export promotion"
+  ],
+  "contact": {
+    "email": "kefm@kefm.dk"
+  }
+}

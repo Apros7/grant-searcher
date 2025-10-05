@@ -1,0 +1,43 @@
+{
+  "fund_name": "M-ERA.NET Call 2025",
+  "host": "M-ERA.NET, coordinated by Innovationsfonden (The Danish Innovation Fund)",
+  "url": "https://innovationsfonden.dk/da/p/internationale-samarbejder/m-eranet-call-2025-avancerede",
+  "summary": "The M-ERA.NET Call 2025 is a transnational funding opportunity aiming to support ambitious research and technological development (RTD) projects in materials research and innovation. The call addresses thematic areas such as sustainable advanced materials for energy, innovative surfaces, coatings and interfaces, advanced composites and lightweight materials, functional materials, materials addressing environmental challenges, and next generation materials for advanced electronics. The program supports projects that contribute to the European Green Deal and the UN Sustainable Development Goals. It is a two-stage call with pre-proposal and full-proposal submissions, involving 38 funding agencies with an indicative total budget exceeding €38 million.",
+  "eligible_applicants": [
+    "Industry partners",
+    "Research organisations",
+    "Academia",
+    "Consortia of multiple partners from different countries"
+  ],
+  "activity_types": [
+    "Transnational collaborative RTD projects",
+    "Research and innovation in advanced materials"
+  ],
+  "category": {
+    "main_category": "Manufacturing",
+    "sub_categories": [
+      "Advanced Composites",
+      "Materials Science",
+      "Sustainable Manufacturing",
+      "Industrial Automation",
+      "Nanotechnology in Manufacturing"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-05-13T12:00:00+02:00",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-11-19T12:00:00+01:00",
+      "decided_at": "2026-03"
+    }
+  ],
+  "reporting_requirements": [
+    "National/regional funding organisations make final funding decisions and manage reporting",
+    "Contact respective national/regional funding body for detailed reporting obligations"
+  ],
+  "contact": {
+    "email": null
+  }
+}

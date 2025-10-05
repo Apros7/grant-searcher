@@ -1,0 +1,49 @@
+{
+  "fund_name": "Micro Grant",
+  "host": "The Danish Foundation for Entrepreneurship",
+  "url": "https://mikrolegat.ffefonden.dk/sog-stotte/mikrolegat-ansogning/",
+  "summary": "Financial support up to DKK 50,000 for students in higher or upper secondary education to develop an idea or start their own business. The grant is paid as invoiced services or products approved within the scope of the grant. Applicants with a CVR number must provide 25% self-financing. Multiple invoices (up to 4) can be submitted. Purchases outside Europe require upfront payment and documentation for reimbursement.",
+  "eligible_applicants": [
+    "Students in higher education",
+    "Pupils in upper secondary education",
+    "Startups with a CVR number (business registration number)"
+  ],
+  "activity_types": [
+    "Development of business idea",
+    "Startup development",
+    "Purchasing services or products related to the grant"
+  ],
+  "category": {
+    "main_category": "Education",
+    "sub_categories": [
+      "Open to All Fields",
+      "General Innovation",
+      "Cross-Industry Collaboration",
+      "Interdisciplinary Research",
+      "Multi-Sector Platforms",
+      "Universal Solutions"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "March 15, 23:59"
+    },
+    {
+      "application_deadline": "May 15, 23:59"
+    },
+    {
+      "application_deadline": "September 15, 23:59"
+    },
+    {
+      "application_deadline": "November 15, 23:59"
+    }
+  ],
+  "reporting_requirements": [
+    "Answer questionnaires from The Danish Foundation for Entrepreneurship",
+    "Invoice approval and submission for payment",
+    "Adherence to budget and grant terms"
+  ],
+  "contact": {
+    "email": ""
+  }
+}

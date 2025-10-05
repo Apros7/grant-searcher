@@ -1,0 +1,24 @@
+{
+  "fund_name": "Pathways to Biobased Construction",
+  "host": "Realdania",
+  "url": "https://realdania.dk/soeg-stoette/veje-til-biobaseret-byggeri-biobaserede-byggevarer",
+  "summary": "An initiative supporting the integration and adoption of biobased building materials such as wood, hemp, straw, and cellulose in Danish construction. It aims to bridge the gap between research and practical application by providing guidelines, guarantees from manufacturers, and promoting new value chains to lower CO2 emissions in construction.",
+  "eligible_applicants": ["Construction professionals", "Material manufacturers", "Educators", "Craftspeople", "Research institutions", "Companies in the building sector"],
+  "activity_types": ["Research", "Material development", "Construction projects", "Value chain establishment", "Guideline development"],
+  "category": {
+    "main_category": "Construction",
+    "sub_categories": [
+      "Green Building",
+      "Building Materials",
+      "Sustainable Manufacturing",
+      "Circular Economy",
+      "Cross-Industry Collaboration",
+      "Environment & Sustainability"
+    ]
+  },
+  "deadlines": [],
+  "reporting_requirements": [],
+  "contact": {
+    "email": ""
+  }
+}

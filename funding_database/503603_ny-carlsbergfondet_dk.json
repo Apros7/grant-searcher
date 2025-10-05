@@ -1,0 +1,79 @@
+[
+  {
+    "fund_name": "New Carlsberg Foundation Grants",
+    "host": "New Carlsberg Foundation",
+    "url": "https://ny-carlsbergfondet.dk/en/stotteomrader",
+    "summary": "Grants provided for acquisitions of artworks by Danish artists, art projects for public institutions, exhibitions, fellowships for art research including PhD and postdoc projects, art scholars' study trips, dissemination publications on Danish art, digitisation projects on Danish art history, and original art projects linked to the foundation’s objectives.",
+    "eligible_applicants": [
+      "Danish museums",
+      "Foreign museums",
+      "Municipalities",
+      "Hospitals",
+      "Schools",
+      "Other institutions",
+      "Art researchers",
+      "PhD students",
+      "Postdoctoral researchers",
+      "Art scholars",
+      "Students at Danish art academies"
+    ],
+    "activity_types": [
+      "Acquisition of artworks",
+      "Art donations",
+      "Art projects",
+      "Exhibition realisation",
+      "Fellowships for research",
+      "Research trips",
+      "Study trips",
+      "Publication creation",
+      "Digitisation projects",
+      "Original art project funding"
+    ],
+    "category": {
+      "main_category": "Arts & Culture",
+      "sub_categories": [
+        "Open to All Fields",
+        "Interdisciplinary Research"
+      ]
+    },
+    "deadlines": [],
+    "reporting_requirements": [],
+    "contact": {
+      "email": ""
+    }
+  },
+  {
+    "fund_name": "Carlsberg Foundation Research Prizes",
+    "host": "Carlsberg Foundation",
+    "url": "https://www.carlsbergfondet.dk/en/about-the-foundation/the-carlsberg-foundation-research-prizes/about-the-carlsberg-foundation-research-prizes/",
+    "summary": "Annual prizes awarded to two researchers for significant contributions to basic research. One prize for natural sciences and one for humanities or social sciences. Each prize consists of 2 million DKK: 500,000 DKK for personal use and 1.5 million DKK for research projects to support activities such as international studies, fieldwork, lab equipment, and scientific assistance.",
+    "eligible_applicants": [
+      "Active researchers",
+      "Researchers in Denmark or abroad"
+    ],
+    "activity_types": [
+      "Basic research projects",
+      "International studies",
+      "Fieldwork",
+      "Laboratory equipment acquisition",
+      "Scientific assistance"
+    ],
+    "category": {
+      "main_category": "Agnostic",
+      "sub_categories": [
+        "Interdisciplinary Research",
+        "Emerging Fields"
+      ]
+    },
+    "deadlines": [
+      {
+        "application_deadline": "",
+        "decided_at": "Annually"
+      }
+    ],
+    "reporting_requirements": [],
+    "contact": {
+      "email": ""
+    }
+  }
+]

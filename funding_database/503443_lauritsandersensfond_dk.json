@@ -1,0 +1,62 @@
+{
+  "fund_name": "Lauritzen Fonden",
+  "host": "Lauritzen Fonden",
+  "url": "https://lauritzenfonden.com/en/",
+  "summary": "Lauritzen Fonden is a commercial foundation supporting non-profit activities primarily aimed at vulnerable children and young people in Denmark. The foundation supports projects facilitating vulnerable children’s access to education and employment, as well as initiatives in shipping, culture, social and humanitarian work, and education. It also distributes scholarships to employees, children of employees, and former employees of the Lauritzen Group. The foundation manages assets exceeding DKK 10 billion, with a focus on promoting Danish shipping and enterprise. Grant applications are considered by an Appropriations Committee and approved by the board. There are four yearly grant deadlines.",
+  "eligible_applicants": [
+    "Vulnerable children and young people",
+    "Employees of Lauritzen Group",
+    "Children of employees",
+    "Former employees of Lauritzen Group",
+    "Talented artists",
+    "Youths with volunteering experience"
+  ],
+  "activity_types": [
+    "Non-profit projects in social innovation",
+    "Projects facilitating education and employment",
+    "Social and humanitarian work",
+    "Cultural initiatives",
+    "Shipping-related projects",
+    "Scholarship distribution",
+    "Travel assistance for humanitarian volunteering and artistic activities"
+  ],
+  "category": {
+    "main_category": "Nonprofit / NGO",
+    "sub_categories": [
+      "Open to All Fields",
+      "Social Innovation",
+      "Education",
+      "Humanitarian Work",
+      "Culture"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-05",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2026-01-11",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2026-04-26",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2026-06-21",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2026-10-04",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "All applications are reviewed by Appropriations Committee before board approval",
+    "Projects must align with foundation charter and grant strategy"
+  ],
+  "contact": {
+    "email": "group.communication@dfds.com"
+  }
+}

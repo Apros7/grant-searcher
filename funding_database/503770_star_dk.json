@@ -1,0 +1,32 @@
+{
+  "fund_name": "Track Change Fund 2025",
+  "host": "Danish Agency for Labour Market and Recruitment (STAR)",
+  "url": "https://star.dk/tilskud/puljer-med-loebende-frist/pulje-til-sporskifte-2025",
+  "summary": "The fund aims to provide financial support to employees at risk of becoming worn out or those who are already worn out, enabling them to receive a 'track change' package that supports career transition and retraining.",
+  "eligible_applicants": [
+    "Employees at risk of wear-out",
+    "Employees who are already worn out"
+  ],
+  "activity_types": [
+    "Career transition support",
+    "Retraining programs"
+  ],
+  "category": {
+    "main_category": "Government & Public Services",
+    "sub_categories": [
+      "Universal Solutions",
+      "Vocational Training",
+      "Career Counseling & Guidance"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "Rolling/ongoing",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [],
+  "contact": {
+    "email": ""
+  }
+}

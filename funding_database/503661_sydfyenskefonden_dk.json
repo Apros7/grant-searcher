@@ -1,0 +1,17 @@
+{
+  "fund_name": "Sydfyenske Fonden",
+  "host": "Sydfyenske Fonden",
+  "url": "https://www.sydfyenskefonden.dk/om-fonden-2.html",
+  "summary": "A regional foundation that supports a variety of cultural, social, and community projects primarily in the southern Funen region of Denmark. The foundation provides soft funding to initiatives that benefit local community development and cultural activities.",
+  "eligible_applicants": ["Local cultural organizations", "Community groups", "Nonprofit organizations"],
+  "activity_types": ["Cultural projects", "Social initiatives", "Community development"],
+  "category": {
+    "main_category": "Nonprofit / NGO",
+    "sub_categories": ["Arts & Culture", "Community Development", "Social Innovation"]
+  },
+  "deadlines": [],
+  "reporting_requirements": [],
+  "contact": {
+    "email": ""
+  }
+}

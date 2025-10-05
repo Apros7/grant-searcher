@@ -1,0 +1,44 @@
+```json
+{
+  "fund_name": "EIC Pathfinder Challenges 2025",
+  "host": "European Innovation Council (EIC)",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-PATHFINDERCHALLENGES-01-03",
+  "summary": "The EIC Pathfinder Challenges 2025 provide funding for early-stage, high-risk/high-gain research projects in strategic areas such as biotech for climate-resilient crops, autonomous robot collectives, waste-to-value devices, and more.",
+  "eligible_applicants": [
+    "Universities",
+    "Research organisations",
+    "Companies (start-ups, SMEs, and larger enterprises)"
+  ],
+  "activity_types": [
+    "Research",
+    "Development",
+    "Innovation"
+  ],
+  "category": {
+    "main_category": "Technology",
+    "sub_categories": [
+      "Interdisciplinary Research",
+      "Emerging Fields",
+      "Biotechnology",
+      "Robotics"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "17th June 2025",
+      "decided_at": "Not specified"
+    },
+    {
+      "application_deadline": "29 October 2025",
+      "decided_at": "Not specified"
+    }
+  ],
+  "reporting_requirements": [
+    "Progress reports",
+    "Final report"
+  ],
+  "contact": {
+    "email": "Not specified in the provided information"
+  }
+}
+```

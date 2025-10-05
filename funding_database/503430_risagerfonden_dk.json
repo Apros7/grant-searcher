@@ -1,0 +1,43 @@
+{
+  "fund_name": "Risager Foundation",
+  "host": "Risager Foundation",
+  "url": "https://risagerfonden.dk/",
+  "summary": "The Risager Foundation provides soft funding primarily through grants supporting innovative projects and initiatives. It targets activities that create positive social and scientific impact. The foundation supports researchers, organizations, and projects aiming at innovation and societal development.",
+  "eligible_applicants": [
+    "Researchers",
+    "Nonprofit Organizations",
+    "Innovative Startups",
+    "Academic Institutions"
+  ],
+  "activity_types": [
+    "Research Projects",
+    "Innovation Initiatives",
+    "Collaborations",
+    "Development Programs"
+  ],
+  "category": {
+    "main_category": "Nonprofit / NGO",
+    "sub_categories": [
+      "Interdisciplinary Research",
+      "General Innovation",
+      "Multi-Sector Platforms",
+      "Cross-Industry Collaboration",
+      "Universal Solutions",
+      "Open to All Fields"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "Varies - no fixed deadline specified",
+      "decided_at": "Varies by grant cycle"
+    }
+  ],
+  "reporting_requirements": [
+    "Progress Reports",
+    "Financial Accounting",
+    "Final Project Report"
+  ],
+  "contact": {
+    "email": "info@risagerfonden.dk"
+  }
+}

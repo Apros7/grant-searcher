@@ -1,0 +1,40 @@
+{
+  "fund_name": "Water4All 2025 Joint Transnational Call",
+  "host": "Innovation Fund Denmark",
+  "url": "https://innovationsfonden.dk/da/p/internationale-samarbejder/water4all-call-2025-water",
+  "summary": "The Water4All 2025 Joint Transnational Call supports international research and innovation projects addressing challenges at the interface between water and human health, focusing on innovative water tools and technologies for water quality monitoring, treatment, remediation, disinfection, and behavior/effects of contaminants including emerging contaminants and plastics.",
+  "eligible_applicants": [
+    "Research and innovation organizations",
+    "Universities",
+    "Research performing organizations",
+    "Public and private entities eligible in participating countries"
+  ],
+  "activity_types": [
+    "Research projects",
+    "Innovation projects",
+    "Two-stage proposal submissions (pre-proposals and full proposals)"
+  ],
+  "category": {
+    "main_category": "Environment & Sustainability",
+    "sub_categories": [
+      "Cross-Industry Collaboration",
+      "Interdisciplinary Research",
+      "Multi-Sector Platforms",
+      "Universal Solutions",
+      "Emerging Fields"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-09-30",
+      "decided_at": "2026-03"
+    }
+  ],
+  "reporting_requirements": [
+    "Project progress and financial reporting as per host funding body guidelines",
+    "Compliance with Water4All partnership reporting and dissemination requirements"
+  ],
+  "contact": {
+    "email": "info@innovationsfonden.dk"
+  }
+}

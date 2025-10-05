@@ -1,0 +1,45 @@
+{
+  "fund_name": "The Danish Maritime Fund",
+  "host": "The Danish Maritime Fund",
+  "url": "https://dendanskemaritimefond.dk/for-ansoegere/ansoegningsfrister/",
+  "summary": "The Danish Maritime Fund provides seed funding and financial support to Danish maritime startups, scaleups, and innovation projects focused on maritime entrepreneurship and innovation, green transition, maritime safety, and digitalization. It supports projects in early phases with grants and loans, encouraging collaboration among companies, educational institutions, and universities to develop the future maritime sector and workforce.",
+  "eligible_applicants": [
+    "Danish maritime startups",
+    "Scaleups",
+    "Innovation project teams",
+    "Companies collaborating with educational institutions and universities"
+  ],
+  "activity_types": [
+    "Entrepreneurship",
+    "Innovation projects",
+    "Maritime business development",
+    "Academic research",
+    "Development of maritime education"
+  ],
+  "category": {
+    "main_category": "Transportation",
+    "sub_categories": [
+      "Maritime Innovation",
+      "Digital Twin for Construction",
+      "Smart Cities",
+      "Software Development",
+      "Artificial Intelligence",
+      "Data Science",
+      "Internet of Things (IoT)"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "Varies by funding round; refer to specific application dates at https://dendanskemaritimefond.dk/for-ansoegere/ansoegningsfrister/",
+      "decided_at": "Varies per project announcement typically within months after application deadline"
+    }
+  ],
+  "reporting_requirements": [
+    "Project progress reports as required by grant terms",
+    "Business plan with market potential, go-to-market strategy, and expectations",
+    "Loan repayment reports if loans are part of funding"
+  ],
+  "contact": {
+    "email": "info@dendanskemaritimefond.dk"
+  }
+}

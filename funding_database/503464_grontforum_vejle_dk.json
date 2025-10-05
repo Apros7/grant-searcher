@@ -1,0 +1,67 @@
+[
+  {
+    "fund_name": "Borgernes Grønne Omstillingspulje and Borgernes Klimapulje",
+    "host": "Grønt Forum Vejle",
+    "url": "https://grontforum.vejle.dk/soeg-penge-til-groenne-projekter/",
+    "summary": "Grant programs merged to support green projects focusing on biodiversity, urban gardening, community engagement, and green festivals that promote biodiversity, nature, cultivation, and climate-friendly lifestyles.",
+    "eligible_applicants": [
+      "Local community groups",
+      "Homeowners associations",
+      "Green associations",
+      "Interested citizens"
+    ],
+    "activity_types": [
+      "Biodiversity development",
+      "Community gardening",
+      "Event and festival organization focused on green topics",
+      "Workshops and community building"
+    ],
+    "category": {
+      "main_category": "Environment & Sustainability",
+      "sub_categories": [
+        "Sustainable Farming",
+        "Green Building",
+        "Community Engagement",
+        "Open to All Fields"
+      ]
+    },
+    "deadlines": [],
+    "reporting_requirements": [],
+    "contact": {
+      "email": "detgronneakademiivejle@gmail.com"
+    }
+  },
+  {
+    "fund_name": "Danish Green Investment Fund",
+    "host": "Export and Investment Fund of Denmark (EIFO)",
+    "url": "https://innovayt.eu/funding/danmarks-gronne-investeringsfond/",
+    "summary": "State loan fund providing co-financing for projects contributing to sustainable development within environmental savings, renewable energy, resource efficiency, food and agriculture, green building materials, and green transport solutions in Denmark.",
+    "eligible_applicants": [
+      "Private companies",
+      "Public companies",
+      "Institutions in all sectors and industries"
+    ],
+    "activity_types": [
+      "Renewable energy technologies",
+      "Environmental savings",
+      "Resource efficiency",
+      "Green building and infrastructure",
+      "Sustainable transport"
+    ],
+    "category": {
+      "main_category": "Environment & Sustainability",
+      "sub_categories": [
+        "Renewable Energy",
+        "Green Building",
+        "Sustainable Farming",
+        "Energy Efficiency",
+        "Transport and Mobility"
+      ]
+    },
+    "deadlines": [],
+    "reporting_requirements": [],
+    "contact": {
+      "email": ""
+    }
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "fund_name": "Fonden til Lægevidenskabens Fremme",
+  "host": "A.P. Møller Fonden",
+  "url": "https://www.apmollerfonde.dk/ansoegning/fonden-til-laegevidenskabens-fremme/",
+  "summary": "Established in 1956 by A.P. Møller, the fund supports scientific and clinical medical research projects. Funding covers expenses for experimental materials, laboratory staff salaries, and acquisition of apparatus. The fund accepts applications once per year and supports clinics, laboratories, and institutions conducting medical research.",
+  "eligible_applicants": [
+    "Scientific clinics",
+    "Laboratories",
+    "Medical research institutions"
+  ],
+  "activity_types": [
+    "Medical research projects",
+    "Clinical studies",
+    "Laboratory experiments"
+  ],
+  "category": {
+    "main_category": "Healthcare",
+    "sub_categories": [
+      "Medical Research",
+      "Pharmaceuticals",
+      "Medical Devices",
+      "Biotechnology"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-06T12:00:00Z",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Reporting through the application portal concerning submitted applications and payment requests for any awarded funds"
+  ],
+  "contact": {
+    "email": "laegefonden@apmollerfonde.dk"
+  }
+}

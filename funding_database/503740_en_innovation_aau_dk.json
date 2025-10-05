@@ -1,0 +1,36 @@
+{
+  "fund_name": "Research to Business (R2B) Pilot Grant",
+  "host": "Aalborg University Technology Transfer Office",
+  "url": "https://www.en.innovation.aau.dk/researchers/innovation-funding/research-to-business-pilot-grant",
+  "summary": "A time-limited technology maturation program designed to support the commercialization of innovative research by helping researchers move their ideas from concept to market readiness.",
+  "eligible_applicants": [
+    "Researchers affiliated with Aalborg University",
+    "Teams engaged in technology maturation and commercialization"
+  ],
+  "activity_types": [
+    "Technology Maturation",
+    "Commercialization Support",
+    "Innovation Development"
+  ],
+  "category": {
+    "main_category": "Agnostic",
+    "sub_categories": [
+      "Open to All Fields",
+      "Cross-Industry Collaboration",
+      "General Innovation",
+      "Interdisciplinary Research"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-31",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Progress reporting according to program guidelines as part of commercialization progress"
+  ],
+  "contact": {
+    "email": "innovation@en.aau.dk"
+  }
+}

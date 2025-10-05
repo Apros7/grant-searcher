@@ -1,0 +1,41 @@
+{
+  "fund_name": "Energy Technology Development and Demonstration Programme (EUDP)",
+  "host": "Danish Government / Erhvervsstyrelsen (Danish Business Authority)",
+  "url": "https://udviklingidanmark.erhvervsstyrelsen.dk/udvikling-af-nye-groenne-teknologier-i-nord-og-sydjylland",
+  "summary": "EUDP provides grants to support Danish, green and innovative energy projects contributing to Denmark's goals for CO2 reduction by 2030 and climate neutrality by 2050. It funds enterprises and universities working on new green energy technologies across research, development, and demonstration stages, prioritizing projects with high technical maturity, market potential, and commercialization pathways.",
+  "eligible_applicants": [
+    "Companies",
+    "Universities",
+    "Research institutions"
+  ],
+  "activity_types": [
+    "Research (TRL 2-4)",
+    "Development (TRL 4-6)",
+    "Demonstration (TRL 6-8)",
+    "Feasibility studies",
+    "Technology Partnerships",
+    "Clean Energy Transition Partnership",
+    "Dissemination projects"
+  ],
+  "category": {
+    "main_category": "Energy",
+    "sub_categories": [
+      "Renewable Energy",
+      "Energy Efficiency",
+      "Green Hydrogen",
+      "Battery Storage",
+      "Smart Grid",
+      "Energy Management Software"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "September 2025",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [],
+  "contact": {
+    "email": null
+  }
+}

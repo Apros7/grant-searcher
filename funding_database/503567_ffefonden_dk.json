@@ -1,0 +1,58 @@
+[
+  {
+    "fund_name": "Micro Grant",
+    "host": "Fonden for Entreprenørskab (The Danish Foundation for Entrepreneurship)",
+    "url": "https://mikrolegat.ffefonden.dk/english/",
+    "summary": "Financial support up to DKK 50,000 for young people developing ideas, available to students in higher or upper secondary education. It is soft funding, meaning the grant does not have to be repaid. Applicants receive feedback from an evaluation committee composed of experienced entrepreneurs and investors, and recipients gain exposure through a published Wall of Fame and social media.",
+    "eligible_applicants": [
+      "Students in higher education",
+      "Pupils in upper secondary education"
+    ],
+    "activity_types": [
+      "Idea development",
+      "Business development"
+    ],
+    "category": {
+      "main_category": "Education",
+      "sub_categories": [
+        "Open to All Fields",
+        "General Innovation",
+        "Entrepreneurship"
+      ]
+    },
+    "deadlines": [],
+    "reporting_requirements": [],
+    "contact": {
+      "email": ""
+    }
+  },
+  {
+    "fund_name": "Kickstart Micro Grant",
+    "host": "Fonden for Entreprenørskab (The Danish Foundation for Entrepreneurship)",
+    "url": "https://mikrolegat.ffefonden.dk/english/kickstart-micro-grant-application/",
+    "summary": "Financial support up to DKK 50,000 for students enrolled in vocational education or recently graduated from vocational education programs. This is soft funding requiring 25% self-financing. Applicants can apply alone or as a team, and the primary applicant must be at least 18 years old. The grant supports idea development and startup phases, requiring an application with a written concept, budget, and video pitch.",
+    "eligible_applicants": [
+      "Vocational education students",
+      "Recent vocational education graduates (within last three months)"
+    ],
+    "activity_types": [
+      "Idea development",
+      "Startup development",
+      "Mentoring supported"
+    ],
+    "category": {
+      "main_category": "Education",
+      "sub_categories": [
+        "Vocational Training",
+        "Open to All Fields",
+        "General Innovation",
+        "Entrepreneurship"
+      ]
+    },
+    "deadlines": [],
+    "reporting_requirements": [],
+    "contact": {
+      "email": ""
+    }
+  }
+]

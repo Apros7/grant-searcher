@@ -1,0 +1,21 @@
+{
+  "fund_name": "E-Commerce Grants and Funding Options",
+  "host": "Various including Government Agencies and Nonprofit Organizations",
+  "url": "https://www.inmobile.com/landingpage/content/e-commerce-legat",
+  "summary": "Non-repayable grants and various financing options to support e-commerce businesses in their growth, including funds for marketing, hiring, and inventory. Options include grants, revenue-based financing, merchant cash advances, lines of credit, equity financing, crowdfunding, and loans tailored to e-commerce business needs.",
+  "eligible_applicants": ["E-commerce businesses", "Startups", "Small and medium enterprises"],
+  "activity_types": ["Business growth", "Marketing", "Inventory purchase", "Hiring", "Scaling operations"],
+  "category": {
+    "main_category": "Retail",
+    "sub_categories": ["E-commerce", "Online Learning", "Business Financing"]
+  },
+  "deadlines": [],
+  "reporting_requirements": [
+    "Detailed project proposals for grants",
+    "Adherence to project scope and deliverables",
+    "Regular reporting to grant providers or funding bodies"
+  ],
+  "contact": {
+    "email": ""
+  }
+}

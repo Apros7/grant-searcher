@@ -1,0 +1,44 @@
+{
+  "fund_name": "Erhvervsudvalgets Pulje",
+  "host": "Norddjurs Municipality",
+  "url": "https://norddjurs.dk/erhverv/soeg-midler-til-udviklingsprojekter/soeg-midler-fra-erhvervsudvalgets-pulje-",
+  "summary": "A fund administered by Norddjurs Municipality's Business Committee offering soft funding to support development projects that promote business growth and innovation in the local area.",
+  "eligible_applicants": [
+    "Local businesses",
+    "Startups",
+    "Small and medium enterprises (SMEs)",
+    "Entrepreneurs"
+  ],
+  "activity_types": [
+    "Innovation projects",
+    "Business development",
+    "Research and development",
+    "Collaborative projects",
+    "Product development"
+  ],
+  "category": {
+    "main_category": "Agnostic",
+    "sub_categories": [
+      "Open to All Fields",
+      "Cross-Industry Collaboration",
+      "General Innovation",
+      "Interdisciplinary Research",
+      "Multi-Sector Platforms"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "Varies periodically; typically announced annually or semi-annually",
+      "decided_at": "Within 3 months after application deadline"
+    }
+  ],
+  "reporting_requirements": [
+    "Project status updates",
+    "Financial reporting on use of funds",
+    "Final project outcome report",
+    "Compliance with municipal regulations"
+  ],
+  "contact": {
+    "email": "erhverv@norddjurs.dk"
+  }
+}

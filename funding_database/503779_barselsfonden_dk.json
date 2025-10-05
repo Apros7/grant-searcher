@@ -1,0 +1,37 @@
+{
+  "fund_name": "The Maternity Fund",
+  "host": "Barselsfonden",
+  "url": "https://www.barselsfonden.dk/",
+  "summary": "The Maternity Fund provides financial support for projects and initiatives that promote better conditions and rights for parents and children during maternity, paternity, and parental leave periods. The fund aims to support research, innovation, and community efforts that improve family life and work-life balance.",
+  "eligible_applicants": [
+    "Researchers",
+    "Nonprofit organizations",
+    "Community groups",
+    "Social enterprises",
+    "Institutions focused on family and child welfare"
+  ],
+  "activity_types": [
+    "Research projects",
+    "Community initiatives",
+    "Policy development",
+    "Educational programs",
+    "Advocacy and outreach"
+  ],
+  "category": {
+    "main_category": "Government & Public Services",
+    "sub_categories": [
+      "Open to All Fields",
+      "Interdisciplinary Research",
+      "General Innovation"
+    ]
+  },
+  "deadlines": [],
+  "reporting_requirements": [
+    "Project progress reports",
+    "Final financial and activity reports",
+    "Outcome and impact evaluation"
+  ],
+  "contact": {
+    "email": "info@barselsfonden.dk"
+  }
+}

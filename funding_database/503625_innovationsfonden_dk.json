@@ -1,0 +1,49 @@
+{
+  "fund_name": "Clean Energy Transition Partnership Joint Call 2025",
+  "host": "Clean Energy Transition Partnership under Horizon Europe",
+  "url": "https://innovationsfonden.dk/da/p/internationale-samarbejder/clean-energy-transition-call-0",
+  "summary": "The Clean Energy Transition Partnership (CETP) 2025 Call is a transnational funding opportunity supporting research, development, and innovation projects promoting the energy transition towards climate neutrality by 2050. The call focuses on seven Transition Initiatives (TRIs) covering integrated net-zero energy systems, zero-emission power technologies, storage and renewable fuels, heating and cooling solutions, regional and industrial energy systems, and integration in the built environment. It targets large-scale international consortia and aims to advance clean energy technologies and system solutions across Europe and partner countries.",
+  "eligible_applicants": [
+    "Transnational consortia",
+    "Research institutions",
+    "Enterprises",
+    "Small and medium sized enterprises (SMEs)",
+    "Universities",
+    "Research organizations"
+  ],
+  "activity_types": [
+    "Research and Innovation Projects",
+    "Collaborative development",
+    "Technology demonstration",
+    "Pilot and validation activities"
+  ],
+  "category": {
+    "main_category": "Energy",
+    "sub_categories": [
+      "Renewable Energy",
+      "Energy Efficiency",
+      "Battery Storage",
+      "Hydrogen Energy",
+      "Carbon Capture & Storage",
+      "Energy Management Software",
+      "Smart Grid",
+      "Decentralized Energy Systems",
+      "Grid Modernization"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-09T13:00:00+01:00",
+      "decided_at": "2025-09-26"
+    }
+  ],
+  "reporting_requirements": [
+    "Progress reports during project duration",
+    "Final project report",
+    "Financial and audit reports according to Horizon Europe regulations",
+    "Adherence to open access and data management plans as per funding terms"
+  ],
+  "contact": {
+    "email": "contact@cetpartnership.eu"
+  }
+}

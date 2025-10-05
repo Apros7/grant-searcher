@@ -1,0 +1,52 @@
+{
+  "fund_name": "Driving Urban Transitions Call 2025",
+  "host": "Driving Urban Transitions (DUT) Partnership",
+  "url": "https://innovationsfonden.dk/da/p/internationale-samarbejder/driving-urban-transition-call",
+  "summary": "A funding call to support transnational research and innovation projects that accelerate the transition of cities to climate-neutral, resilient, and sustainable economies and societies. Projects must address urban challenges within three thematic Transition Pathways: 15-minute City, Circular Urban Economies, and Positive Energy Districts. The call requires consortia of at least three partners from different countries, including municipalities or local authorities.",
+  "eligible_applicants": [
+    "Universities",
+    "Research institutes",
+    "Private companies",
+    "Private organizations engaged in economic activity",
+    "Public organizations engaged in economic activity",
+    "Public authorities",
+    "NGOs"
+  ],
+  "activity_types": [
+    "Research",
+    "Innovation",
+    "Implementation"
+  ],
+  "category": {
+    "main_category": "Environment & Sustainability",
+    "sub_categories": [
+      "Smart Cities",
+      "Urban Development",
+      "Circular Urban Economies",
+      "Energy Efficiency",
+      "Sustainable Manufacturing",
+      "Renewable Energy",
+      "Multi-Sector Platforms",
+      "Cross-Industry Collaboration",
+      "General Innovation",
+      "Interdisciplinary Research",
+      "Public Health Innovation",
+      "Climate Resilience"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-11-17T13:00:00Z",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Project must involve transnational collaboration with added value clearly stated",
+    "Engage stakeholders such as companies, public authorities, NGOs",
+    "Consider users’ needs in project goals identification",
+    "Follow Horizon Europe Framework Programme and EU co-funding requirements"
+  ],
+  "contact": {
+    "email": "contact@formas.se"
+  }
+}

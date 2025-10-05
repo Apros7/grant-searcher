@@ -1,0 +1,28 @@
+{
+  "fund_name": "Micro Grant",
+  "host": "Danish Foundation for Entrepreneurship",
+  "url": "https://mikrolegat.ffefonden.dk/english/",
+  "summary": "The Micro Grant is financial support for young people (students in higher or vocational education) developing an idea or starting their own business. It provides up to DKK 50,000 as soft funding (non-repayable grant) including mentoring support for vocational students. Feedback is given after evaluation and recipients gain exposure through social media and the 'Wall of Fame'.",
+  "eligible_applicants": [
+    "Students in higher education",
+    "Pupils in upper secondary education",
+    "Students in vocational education programs"
+  ],
+  "activity_types": [
+    "Idea development",
+    "Startup development",
+    "Entrepreneurship"
+  ],
+  "category": {
+    "main_category": "Agnostic",
+    "sub_categories": [
+      "Open to All Fields",
+      "General Innovation"
+    ]
+  },
+  "deadlines": [],
+  "reporting_requirements": [],
+  "contact": {
+    "email": "tilde@ffefonden.dk"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "fund_name": "Byggeriets Eksperiment",
+  "host": "Boligfonden Kuben",
+  "url": "https://www.boligfondenkuben.dk/byggeriets-eksperiment/",
+  "summary": "Supports experimental projects in construction that challenge conventional methods to advance green transition, increase productivity, and make the sector attractive. Projects should address problems in construction by exploring, testing, and learning, focusing on waste reduction, responsible consumption, resource optimization, innovation, technological development, and improved processes and collaboration. Example project is Insutex, which upcycles textile waste into insulation material.",
+  "eligible_applicants": [
+    "Construction professionals",
+    "Innovators in construction",
+    "Companies experimenting with new construction methods"
+  ],
+  "activity_types": [
+    "Research and development",
+    "Experimental projects",
+    "Product testing",
+    "Process optimization",
+    "Collaboration initiatives"
+  ],
+  "category": {
+    "main_category": "Construction",
+    "sub_categories": [
+      "Green Building",
+      "Sustainable Manufacturing",
+      "Building Materials",
+      "Project Management Software",
+      "Energy-Efficient Buildings"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-02-07",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-04-30",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-08-21",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-11-12",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Project outcomes and learnings from experiments",
+    "Results of relevant product tests (e.g., safety and performance tests)",
+    "Progress updates regarding innovation and technological development"
+  ],
+  "contact": {
+    "email": "fonden@boligfondenkuben.dk"
+  }
+}

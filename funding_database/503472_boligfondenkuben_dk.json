@@ -1,0 +1,49 @@
+{
+  "fund_name": "Det Gode Håndværk",
+  "host": "Boligfonden Kuben",
+  "url": "https://www.boligfondenkuben.dk/det-gode-handvaerk/",
+  "summary": "Funding program aimed at supporting high-quality craftsmanship that defines the quality and cultural heritage potential of future construction. It emphasizes sustainability in construction beyond climate and environmental considerations, including economic and social sustainable solutions that support good collaboration and promote a healthy work environment. The fund seeks to bring international expertise with extraordinary knowledge to develop the construction industry.",
+  "eligible_applicants": [
+    "Craftsmen",
+    "Construction professionals",
+    "Innovators in building and construction"
+  ],
+  "activity_types": [
+    "Development projects in construction",
+    "Innovative design and craftsmanship",
+    "Sustainable construction solutions",
+    "International expert collaboration"
+  ],
+  "category": {
+    "main_category": "Construction",
+    "sub_categories": [
+      "General Innovation",
+      "Sustainable Manufacturing",
+      "Green Building",
+      "Architecture",
+      "Engineering"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-02-07",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-04-30",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-08-21",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-11-12",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [],
+  "contact": {
+    "email": "fonden@boligfondenkuben.dk"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "fund_name": "Call for proposals to support the development of innovative medical countermeasures for chemical, biological, radiological and nuclear threats (HERA) - Medicinal products",
+  "host": "European Commission - EU4Health Programme",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EU4H-2025-HERA-PJ-1-a",
+  "summary": "This call aims to improve the European Union’s readiness to respond to chemical, biological, radiological, and nuclear (CBRN) health threats by supporting the development of medicinal products, including vaccines and treatments that are threat-agnostic and based on platform technologies, especially targeting biotoxins. The action focuses on advanced research and innovation to bridge the gap towards regulatory approval and market readiness, enhancing preparedness against CBRN threats through development of medicinal countermeasures.",
+  "eligible_applicants": [
+    "Higher education institutions",
+    "Research organisations",
+    "Hospitals",
+    "Expert networks",
+    "Security practitioners",
+    "End users",
+    "Other public or private entities"
+  ],
+  "activity_types": [
+    "Advanced research and development",
+    "Innovation",
+    "Market access facilitation",
+    "Entrepreneurial skills development"
+  ],
+  "category": {
+    "main_category": "Healthcare",
+    "sub_categories": [
+      "Medical Devices",
+      "Pharmaceuticals",
+      "Digital Health",
+      "Preventive Care",
+      "Medical Research",
+      "Biotechnology",
+      "Personalized Medicine",
+      "Healthcare IT"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-12-04T17:00:00+01:00",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Regular project progress and financial reports as required by EU grants",
+    "Compliance with EU health and safety regulations",
+    "Delivery of milestones towards medical countermeasure development and market readiness"
+  ],
+  "contact": {
+    "email": "HADEA-HP-CALLS@ec.europa.eu"
+  }
+}

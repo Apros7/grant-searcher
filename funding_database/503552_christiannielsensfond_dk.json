@@ -1,0 +1,46 @@
+{
+  "fund_name": "Christian Nielsen Foundation",
+  "host": "Christian Nielsens Fond",
+  "url": "https://www.christiannielsensfond.dk/om-fonden/vil-du-vide-mere/fondens-formaal",
+  "summary": "The foundation's primary purpose is to ensure the continuation of Christian Nielsen’s companies for the benefit of Danish industry and to support Danish technological and industrial development. It funds inventors or manufacturers to support exploitation of inventions or technical advances important to Danish industry, as well as research within Danish industry, agriculture, forestry, and fishing with industrial aims. It also supports projects contributing to research benefiting Danish industry or inventions that create social benefits and jobs in Denmark. The foundation allocates loans and capital injections to qualifying projects. Additionally, it may grant scholarships for charitable, social, or humanitarian purposes in Lyngby-Taarbæk and Rudersdal municipalities.",
+  "eligible_applicants": [
+    "Inventors",
+    "Manufacturers",
+    "Private companies",
+    "Projects benefiting Danish industry or related sectors"
+  ],
+  "activity_types": [
+    "Research",
+    "Development and Innovation",
+    "Market Introduction"
+  ],
+  "category": {
+    "main_category": "Manufacturing",
+    "sub_categories": [
+      "General Innovation",
+      "Cross-Industry Collaboration"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-03-28",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-05-09",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-08-29",
+      "decided_at": null
+    },
+    {
+      "application_deadline": "2025-11-21",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [],
+  "contact": {
+    "email": null
+  }
+}

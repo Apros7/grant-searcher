@@ -1,0 +1,19 @@
+```json
+{
+  "fund_name": "Heyfunding Grant",
+  "host": "Heyfunding ApS",
+  "url": "https://blog.heyfunding.dk/blog/heyfunding-legatet",
+  "summary": "The Heyfunding Grant is a quarterly grant of 25,000 DKK for entrepreneurs, startups, and scaleups. The grant is awarded based on innovation, potential, and execution by an external jury committee. It is a collaboration between Heyfunding and Spotlight Stock Market, and applications can be completed in under 2 minutes. Both applicants with and without a CVR number can apply.",
+  "eligible_applicants": ["Entrepreneurs", "Startups", "Scaleups"],
+  "activity_types": ["Innovation", "Potential", "Execution"],
+  "category": {
+    "main_category": "Agnostic",
+    "sub_categories": ["Open to All Fields", "General Innovation"]
+  },
+  "deadlines": [],
+  "reporting_requirements": [],
+  "contact": {
+    "email": ""
+  }
+}
+```

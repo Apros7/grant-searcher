@@ -1,0 +1,33 @@
+{
+  "fund_name": "CSR Mark Tønder Municipality",
+  "host": "Tønder Municipality",
+  "url": "https://www.toender.dk/service-og-selvbetjening/raadgivning-og-regler-for-virksomheder/baeredygtighed-og-ansvarlighed/csr-maerke-toender-kommune/",
+  "summary": "A certification for companies located in Tønder Municipality demonstrating social responsibility by employing a minimum share of employees through schemes such as small jobs, business internships, special employment conditions, and adult apprentices or students. Certified companies receive a CSR package including a logo for commercial use and support for the UN Sustainable Development Goal 8 concerning decent work and economic growth.",
+  "eligible_applicants": [
+    "Companies located in Tønder Municipality",
+    "Small companies up to 50 employees with minimum 10% of workforce in relevant employment schemes",
+    "Large companies with 50+ employees with minimum 5 employees in relevant schemes"
+  ],
+  "activity_types": [
+    "Employment of inclusive workforce under small jobs",
+    "Business internships",
+    "Special employment conditions such as sheltered jobs, flexible jobs, wage subsidies",
+    "Adult apprenticeships and traineeships (EGU/IGU/STU)"
+  ],
+  "category": {
+    "main_category": "Government & Public Services",
+    "sub_categories": [
+      "ESG & Sustainable Finance",
+      "Universal Solutions",
+      "Multi-Sector Platforms",
+      "Cross-Industry Collaboration"
+    ]
+  },
+  "deadlines": [],
+  "reporting_requirements": [
+    "Maintain and document employment share in relevant inclusion schemes during the current year"
+  ],
+  "contact": {
+    "email": ""
+  }
+}

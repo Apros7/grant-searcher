@@ -1,0 +1,62 @@
+{
+  "fund_name": "The Danish Maritime Fund",
+  "host": "Den Danske Maritime Fond",
+  "url": "https://dendanskemaritimefond.dk/",
+  "summary": "The Danish Maritime Fund is a commercial fund established in 2005 supporting growth and innovation in the Danish maritime sector. It provides financial support through seed funding, grants, and loans for high-risk, forward-looking maritime innovation projects including startups, scaleups, business development, academic research, and maritime education. Focus areas include digitization, automation, green transition, entrepreneurship, and collaboration between companies and educational institutions. The fund aims to create jobs and strengthen Denmark’s global position as a pioneer in green and digital maritime solutions.",
+  "eligible_applicants": [
+    "Companies with significant activities in Denmark",
+    "Institutions with significant activities or interest in the Danish maritime industry",
+    "Individuals with significant activities or strong attachment to the Danish maritime sector",
+    "Educational institutions",
+    "Universities",
+    "Research organizations",
+    "Public authorities",
+    "Service companies and ancillary industries in maritime sector"
+  ],
+  "activity_types": [
+    "Innovation projects",
+    "Research",
+    "Technology development",
+    "Product development",
+    "Training",
+    "Recruitment",
+    "Entrepreneurship",
+    "Maritime education development",
+    "Business development",
+    "Non-profit projects",
+    "Conferences and events",
+    "Political initiatives"
+  ],
+  "category": {
+    "main_category": "Transportation",
+    "sub_categories": [
+      "Maritime Innovation",
+      "Digital Twins",
+      "Smart Cities",
+      "Sustainable Manufacturing",
+      "Energy Efficiency",
+      "Cross-Industry Collaboration",
+      "General Innovation"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "Quarterly (four times a year)",
+      "decided_at": "Ongoing throughout the year"
+    },
+    {
+      "application_deadline": "Ongoing for MBA grants",
+      "decided_at": "Processed on an ongoing basis"
+    }
+  ],
+  "reporting_requirements": [
+    "High-quality business plans required",
+    "Demonstration of project maturity and innovation",
+    "Evidence of customer interest",
+    "Potential to create jobs in Denmark",
+    "Co-financing or need for residual financing disclosure"
+  ],
+  "contact": {
+    "email": ""
+  }
+}

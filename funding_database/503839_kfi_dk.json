@@ -1,0 +1,38 @@
+{
+  "fund_name": "KFI 70 Years Anniversary Fund - The Merchant's Green Local Initiatives",
+  "host": "KFI (Købmændenes Fællesindkøb)",
+  "url": "https://kfi.dk/kfi-70-aars-jubilaeumspulje-koebmandens-groenne-lokaltiltag/",
+  "summary": "A fund established to support local green initiatives by merchants, aiming to enhance sustainability and community engagement in retail environments through environmentally friendly projects and practices.",
+  "eligible_applicants": [
+    "Local merchants",
+    "Small retail businesses",
+    "Merchant cooperatives"
+  ],
+  "activity_types": [
+    "Environmental initiatives",
+    "Sustainability projects",
+    "Community engagement activities"
+  ],
+  "category": {
+    "main_category": "Retail",
+    "sub_categories": [
+      "Sustainable Manufacturing",
+      "Supply Chain & Logistics for Retail",
+      "Food & Beverage Retail"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "Check official website for current deadlines",
+      "decided_at": "Rolling decisions based on application intake"
+    }
+  ],
+  "reporting_requirements": [
+    "Progress reports on initiative implementation",
+    "Financial reporting on fund usage",
+    "Final project impact assessment"
+  ],
+  "contact": {
+    "email": "info@kfi.dk"
+  }
+}

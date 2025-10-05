@@ -1,0 +1,40 @@
+{
+  "fund_name": "EIC STEP Scale Up",
+  "host": "European Innovation Council (EIC) under Horizon Europe",
+  "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EIC-2025-EICSTEP-01",
+  "summary": "EIC STEP Scale Up provides equity-only investments from EUR 10 million to EUR 30 million to promising start-ups, SMEs, spin-offs, and small mid-caps for scaling high-risk innovations that cannot be fully financed by other investors. It aims to support innovation scale-up in critical areas, with investments tailored individually according to the EIC Fund Investment Guidelines. No grant component is offered under this call.",
+  "eligible_applicants": [
+    "Start-ups",
+    "SMEs",
+    "Spin-offs",
+    "Small mid-cap companies"
+  ],
+  "activity_types": [
+    "Innovation scale-up",
+    "Equity investment",
+    "High-risk technology commercialization"
+  ],
+  "category": {
+    "main_category": "Technology",
+    "sub_categories": [
+      "Open to All Fields",
+      "General Innovation",
+      "Cross-Industry Collaboration",
+      "Emerging Fields"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "2025-10-22T17:00:00Z",
+      "decided_at": "2025-12-05T00:00:00Z"
+    }
+  ],
+  "reporting_requirements": [
+    "Due diligence and investment agreement aligned with EIC Fund Investment Guidelines",
+    "Safeguard measures to protect European interests where necessary",
+    "Periodic reporting according to invested amount and project progress"
+  ],
+  "contact": {
+    "email": "EIC-Fund@ec.europa.eu"
+  }
+}

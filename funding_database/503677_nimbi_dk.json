@@ -1,0 +1,46 @@
+{
+  "fund_name": "Spilfremme",
+  "host": "NIMBI – Danish Institute for Game Development",
+  "url": "https://www.nimbi.dk/støtte/spilfremme",
+  "summary": "Spilfremme provides grants to support activities that advance Danish digital games and the broader games industry, including spreading awareness, enhancing skills and knowledge, promoting Danish game culture, and fostering professional dialogue. The funding helps improve the quality and reach of Danish games by supporting diverse projects such as events, publications, and promotional initiatives.",
+  "eligible_applicants": [
+    "Digital game developers",
+    "Industry professionals",
+    "Event organizers",
+    "Publishers",
+    "Researchers and others involved in Danish game development"
+  ],
+  "activity_types": [
+    "Awareness campaigns",
+    "Skill and knowledge development",
+    "Professional dialogue and networking",
+    "Events and conferences",
+    "Publications",
+    "Promotional projects",
+    "Game development initiatives"
+  ],
+  "category": {
+    "main_category": "Media & Entertainment",
+    "sub_categories": [
+      "Gaming & Esports",
+      "Digital Twins",
+      "Virtual Reality (VR)",
+      "Augmented Reality (AR)",
+      "Extended Reality (XR)",
+      "Software Development",
+      "Game Development"
+    ]
+  },
+  "deadlines": [
+    {
+      "application_deadline": "June 9, 2025",
+      "decided_at": null
+    }
+  ],
+  "reporting_requirements": [
+    "Recipients must report on the use of the grant and outcomes of the funded activities."
+  ],
+  "contact": {
+    "email": "karenj@dfi.dk"
+  }
+}
