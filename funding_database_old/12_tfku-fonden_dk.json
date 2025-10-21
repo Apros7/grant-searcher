@@ -1,6 +1,3 @@
-I couldn't access the specified URL: https://tfku-fonden.dk/. Based on the standard structure of funding websites, here is a placeholder JSON response. Please adjust the details according to the actual content of the website.
-
-```json
 {
   "fund_name": "TFKU Foundation",
   "host": "TFKU Foundation",
@@ -30,4 +27,3 @@ I couldn't access the specified URL: https://tfku-fonden.dk/. Based on the stand
     "email": "info@tfku-fonden.dk"
   }
 }
-```

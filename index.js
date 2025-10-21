@@ -1,121 +1,42 @@
-// Funding data with more entries for shuffling
-const fundingData = [
-    { id: 1, title: "Innovation Fund Denmark", description: "Best aligned grant based on answers", amount: "€500K - €2M" },
-    { id: 2, title: "EU Horizon Europe", description: "Strong fit; slightly narrower scope", amount: "€1M - €5M" },
-    { id: 3, title: "Nordic Innovation", description: "Requires extra eligibility check", amount: "€200K - €1M" },
-    { id: 4, title: "Danish Growth Fund", description: "Good fit with specific requirements", amount: "€300K - €1.5M" },
-    { id: 5, title: "Vækstfonden", description: "Possible match with modifications", amount: "€100K - €800K" },
-    { id: 6, title: "Realdania Foundation", description: "Sustainable development focus", amount: "€400K - €1.2M" },
-    { id: 7, title: "Carlsberg Foundation", description: "Research and innovation grants", amount: "€250K - €1M" },
-    { id: 8, title: "AP Møller Foundation", description: "Technology and entrepreneurship", amount: "€600K - €2.5M" },
-    { id: 9, title: "Ny Carlsberg Foundation", description: "Arts and culture funding", amount: "€150K - €500K" },
-    { id: 10, title: "Lolland Development Fund", description: "Regional development initiatives", amount: "€200K - €800K" }
-];
+let allGrants = [];
+let categoryData = null;
 
-// Sub-industry options based on main industry
-const subIndustries = {
-    technology: [
-        "Software Development",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Fintech",
-        "E-commerce",
-        "Mobile Apps",
-        "Cloud Computing",
-        "IoT",
-        "Blockchain"
-    ],
-    healthcare: [
-        "Medical Devices",
-        "Pharmaceuticals",
-        "Digital Health",
-        "Biotechnology",
-        "Telemedicine",
-        "Mental Health",
-        "Preventive Care",
-        "Medical Research"
-    ],
-    finance: [
-        "Banking",
-        "Insurance",
-        "Investment",
-        "Payment Solutions",
-        "Cryptocurrency",
-        "Financial Planning",
-        "Trading",
-        "Lending"
-    ],
-    manufacturing: [
-        "Automotive",
-        "Electronics",
-        "Textiles",
-        "Food & Beverage",
-        "Chemicals",
-        "Machinery",
-        "Aerospace",
-        "Pharmaceuticals"
-    ],
-    energy: [
-        "Renewable Energy",
-        "Solar Power",
-        "Wind Energy",
-        "Battery Storage",
-        "Nuclear",
-        "Oil & Gas",
-        "Energy Efficiency",
-        "Smart Grid"
-    ],
-    agriculture: [
-        "Crop Production",
-        "Livestock",
-        "Agricultural Technology",
-        "Organic Farming",
-        "Food Processing",
-        "Aquaculture",
-        "Precision Agriculture",
-        "Agricultural Equipment"
-    ],
-    education: [
-        "Online Learning",
-        "Educational Technology",
-        "Vocational Training",
-        "Language Learning",
-        "Corporate Training",
-        "Early Childhood",
-        "Higher Education",
-        "Special Education"
-    ],
-    retail: [
-        "Fashion",
-        "Electronics",
-        "Grocery",
-        "E-commerce",
-        "Luxury Goods",
-        "Home & Garden",
-        "Beauty & Personal Care",
-        "Sports & Recreation"
-    ],
-    transportation: [
-        "Automotive",
-        "Public Transit",
-        "Logistics",
-        "Shipping",
-        "Aviation",
-        "Railway",
-        "Ride Sharing",
-        "Freight"
-    ],
-    construction: [
-        "Residential",
-        "Commercial",
-        "Infrastructure",
-        "Renovation",
-        "Green Building",
-        "Construction Technology",
-        "Architecture",
-        "Engineering"
-    ]
-};
+async function initializeApp() {
+    // Load grants
+    allGrants = await window.grantMatcher.loadGrants();
+    console.log(`Loaded ${allGrants.length} grants`);
+    
+    // Extract categories from grants
+    const categoryMap = await window.grantMatcher.extractCategories(allGrants);
+    categoryData = window.grantMatcher.getCategoryLists(categoryMap);
+    
+    console.log('Available categories:', categoryData);
+    
+    // Populate the dropdowns with real data
+    populateMainCategories();
+    
+    // Set up form listeners
+    initializeForm();
+    
+    // Add event listeners for live updates
+    document.getElementById('answer-industry').addEventListener('change', updateRankings);
+    document.getElementById('answer-subindustry').addEventListener('change', updateRankings);
+}
+
+function populateMainCategories() {
+    const industrySelect = document.getElementById('answer-industry');
+    
+    // Clear existing options except the first one
+    industrySelect.innerHTML = '<option value="">Select industry...</option>';
+    
+    // Add all main categories from grants
+    categoryData.mainCategories.forEach(category => {
+        const option = document.createElement('option');
+        option.value = category.toLowerCase();
+        option.textContent = category;
+        industrySelect.appendChild(option);
+    });
+}
 
 function initializeForm() {
     const industrySelect = document.getElementById('answer-industry');
@@ -124,21 +45,147 @@ function initializeForm() {
     industrySelect.addEventListener('change', function() {
         const selectedIndustry = this.value;
         
+        // Clear sub-industry dropdown
         subIndustrySelect.innerHTML = '<option value="">Select sub-industry...</option>';
         
-        if (selectedIndustry && subIndustries[selectedIndustry]) {
-            subIndustrySelect.disabled = false;
+        if (selectedIndustry) {
+            // Find the main category (case-insensitive match)
+            const mainCategory = categoryData.mainCategories.find(
+                cat => cat.toLowerCase() === selectedIndustry
+            );
             
-            subIndustries[selectedIndustry].forEach(subIndustry => {
-                const option = document.createElement('option');
-                option.value = subIndustry.toLowerCase().replace(/\s+/g, '-');
-                option.textContent = subIndustry;
-                subIndustrySelect.appendChild(option);
-            });
+            if (mainCategory && categoryData.subCategoriesByMain[mainCategory]) {
+                subIndustrySelect.disabled = false;
+                
+                // Populate with actual sub-categories from grants
+                categoryData.subCategoriesByMain[mainCategory].forEach(subCat => {
+                    const option = document.createElement('option');
+                    option.value = subCat.toLowerCase();
+                    option.textContent = subCat;
+                    subIndustrySelect.appendChild(option);
+                });
+            } else {
+                subIndustrySelect.disabled = true;
+            }
         } else {
             subIndustrySelect.disabled = true;
         }
     });
 }
 
-tdocument.addEventListener('DOMContentLoaded', initializeForm);
+async function updateRankings() {
+    const industry = document.getElementById('answer-industry').value;
+    const subIndustry = document.getElementById('answer-subindustry').value;
+    
+    if (!industry) return;
+    
+    // Find the actual main category name (preserve original casing)
+    const mainCategory = categoryData.mainCategories.find(
+        cat => cat.toLowerCase() === industry
+    ) || industry;
+    
+    // Find actual sub-category names
+    const subCategories = [];
+    if (subIndustry && categoryData.subCategoriesByMain[mainCategory]) {
+        const subCat = categoryData.subCategoriesByMain[mainCategory].find(
+            cat => cat.toLowerCase() === subIndustry
+        );
+        if (subCat) {
+            subCategories.push(subCat);
+        }
+    }
+    
+    const query = {
+        category: {
+            main_category: mainCategory,
+            sub_categories: subCategories
+        }
+    };
+    
+    console.log('Searching for:', query);
+    
+    // Get ranked results
+    const rankedGrants = await window.grantMatcher.rankMatch(allGrants, query);
+    
+    console.log('Top matches:', rankedGrants.slice(0, 5));
+    
+    // Update the UI
+    updateRankingDisplay(rankedGrants);
+    updatePicksDisplay(rankedGrants);
+}
+
+function updateRankingDisplay(rankedGrants) {
+    const ranking = document.querySelector('.ranking');
+    
+    // Keep the header
+    let html = '<div class="ranking-header">Live Ranking</div>';
+    
+    // Add top 5 grants
+    for (let i = 0; i < Math.min(5, rankedGrants.length); i++) {
+        const result = rankedGrants[i];
+        const grant = result.grant;
+        
+        html += `
+            <div class="rank-box">
+                <div class="rank-number">#${i + 1}</div>
+                <div class="rank-content">
+                    <div class="rank-title">${grant.fund_name}</div>
+                    <div class="rank-desc">Score: ${result.score} - ${grant.summary.substring(0, 60)}...</div>
+                </div>
+            </div>
+        `;
+    }
+    
+    ranking.innerHTML = html;
+}
+
+function updatePicksDisplay(rankedGrants) {
+    const topTier = document.querySelector('.top-tier');
+    const otherPicks = document.querySelector('.other-picks');
+    
+    // Update top 3 (gold, silver, bronze)
+    if (rankedGrants.length >= 3) {
+        topTier.innerHTML = `
+            <div class="pick-card silver">
+                <div class="pick-number">#2</div>
+                <div class="pick-content">
+                    <div class="pick-title">${rankedGrants[1].grant.fund_name}</div>
+                    <div class="pick-desc">Score: ${rankedGrants[1].score}</div>
+                </div>
+            </div>
+            <div class="pick-card gold">
+                <div class="pick-number">#1</div>
+                <div class="pick-content">
+                    <div class="pick-title">${rankedGrants[0].grant.fund_name}</div>
+                    <div class="pick-desc">Score: ${rankedGrants[0].score}</div>
+                </div>
+            </div>
+            <div class="pick-card bronze">
+                <div class="pick-number">#3</div>
+                <div class="pick-content">
+                    <div class="pick-title">${rankedGrants[2].grant.fund_name}</div>
+                    <div class="pick-desc">Score: ${rankedGrants[2].score}</div>
+                </div>
+            </div>
+        `;
+    }
+    
+    // Update ranks 4-10
+    let otherHtml = '';
+    for (let i = 3; i < Math.min(10, rankedGrants.length); i++) {
+        const result = rankedGrants[i];
+        otherHtml += `
+            <div class="pick-card">
+                <div class="pick-number">#${i + 1}</div>
+                <div class="pick-content">
+                    <div class="pick-title">${result.grant.fund_name}</div>
+                    <div class="pick-desc">Score: ${result.score}</div>
+                </div>
+            </div>
+        `;
+    }
+    otherPicks.innerHTML = otherHtml;
+}
+
+// Initialize when page loads
+document.addEventListener('DOMContentLoaded', initializeApp);

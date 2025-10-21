@@ -59,6 +59,23 @@ async function extractCategories(grants){
     return categoryMap;
 }
 
+// Add this after extractCategories function
+function getCategoryLists(categoryMap) {
+    // Get sorted list of main categories
+    const mainCategories = Object.keys(categoryMap).sort();
+    
+    // Get all sub-categories organized by main category
+    const subCategoriesByMain = {};
+    for (const mainCat in categoryMap) {
+        subCategoriesByMain[mainCat] = Array.from(categoryMap[mainCat]).sort();
+    }
+    
+    return {
+        mainCategories,
+        subCategoriesByMain
+    };
+}
+
 // returns an array of rankings for grants compared to query
 async function rankMatch(grants,query){
     q_main = query.category.main_category || 'Unknown';
@@ -91,6 +108,8 @@ async function rankMatch(grants,query){
 }
 
 // main
+
+/*
 
 async function main() {
     const grants = await loadGrants();
@@ -126,3 +145,24 @@ async function main() {
 
 // Call it
 main();
+
+*/ 
+
+window.grantMatcher = {
+    loadGrants,
+    rankMatch,
+    extractCategories,
+    getCategoryLists
+};
+
+// Initialize grants on page load
+let cachedGrants = null;
+async function initializeGrants() {
+    if (!cachedGrants) {
+        cachedGrants = await loadGrants();
+    }
+    return cachedGrants;
+}
+
+// Auto-initialize
+initializeGrants();
